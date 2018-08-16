@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+
+    "AlterationType": {
+      "type": "string",
+      "enum": ["OSIRIS:O15-1",
+              "OSIRIS:O15-2",
+              "OSIRIS:O15-3",
+              "OSIRIS:O15-4",
+              "OSIRIS:O15-5",
+              "OSIRIS:O15-6",
+              "OSIRIS:O15-7",
+              "OSIRIS:O15-8",
+              "OSIRIS:O15-9",
+              "OSIRIS:O15-10"]
+
+    },
+
+    "Pathogenicity": {
+      "type": "string",
+      "enum": ["OSIRIS:O81-1",
+              "OSIRIS:O81-2",
+              "OSIRIS:O81-3",
+              "OSIRIS:O81-4",
+              "OSIRIS:O81-5"]
+    },
+
+
+    "Actionability": {
+      "type": "string",
+      "enum": ["OSIRIS:O82-1",
+              "OSIRIS:O82-2"
+              ]
+
+    },
+
+    "ProposedForOrientation": {
+      "type": "boolean"
+    },
+
+    "Chromosome": {
+      "type": "string",
+      "enum": ["LOINC:LA21254-0",
+              "LOINC:LA21255-7",
+              "LOINC:LA21256-5",
+              "LOINC:LA21257-3",
+              "LOINC:LA21258-1",
+              "LOINC:LA21259-9",
+              "LOINC:LA21260-7",
+              "LOINC:LA21261-5",
+              "LOINC:LA21262-3",
+              "LOINC:LA21263-1",
+              "LOINC:LA21264-9",
+              "LOINC:LA21265-6",
+              "LOINC:LA21266-4",
+              "LOINC:LA21267-2",
+              "LOINC:LA21268-0",
+              "LOINC:LA21269-8",
+              "LOINC:LA21270-6",
+              "LOINC:LA21271-4",
+              "LOINC:LA21272-2",
+              "LOINC:LA21273-0",
+              "LOINC:LA21274-8",
+              "LOINC:LA21275-5",
+              "LOINC:LA21276-3",
+              "LOINC:LA21277-1"]
+    },
+
+    "GenomicStart": {
+      "type": "integer"
+    },
+
+    "GenomicStop": {
+      "type": "integer"
+    },
+
+
+    "GenomeBuild": {
+      "type": "string",
+      "enum": ["OSIRIS:O22-1",
+              "OSIRIS:O22-2"]
+    },
+
+    "Cytoband": {
+      "type": "string"
+    },
+
+
+    "SegmentIntensity": {
+      "type": "number"
+    },
+
+    "SegmentGenomicStatus" {
+      "type": "string",
+      "enum": ["OSIRIS:O49-1",
+              "OSIRIS:O49-2",
+              "OSIRIS:O49-3",
+              "OSIRIS:O49-4",
+              "OSIRIS:O49-5",
+              "OSIRIS:O49-6",
+              "OSIRIS:O49-7"]
+    },
+
+
+    "CopyNumber" {
+      "type": "integer"
+    },
+
+
+    "LOH" {
+      "type": "boolean"
+    },
+
+    "Type": {
+      "type": "string",
+      "enum": ["OSIRIS:O16-1",
+              "OSIRIS:O16-2",
+              "OSIRIS:O16-3"]
+    },
+
+    "Method": {
+      "type": "string"
+    },
+
+    "Status": {
+      "type": "string",
+      "enum": ["OSIRIS:O18-1",
+              "OSIRIS:O18-2"]
+    }
+  }
+}

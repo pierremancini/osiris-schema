@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+
+    "SampleExternalAccession": {
+      "type": "string"
+    },
+
+    "ParentSampleExternalAccession": {
+      "type": "string"
+    },
+
+    "CollectDate": {
+      "type": "string"
+    },
+
+    "TopographyCode": {
+      "type": "string",
+      "enum": []
+    },
+
+    "Nature": {
+      "type": "string",
+      "enum": ["UMLS:C0005767",
+              "UMLS:C0032105",
+              "UMLS:C0085983",
+              "UMLS:C4039816",
+              "UMLS:C1519524"]
+    },
+
+    "Origine": {
+      "type": "string",
+      "enum": ["OSIRIS:O59-1", "OSIRIS:O59-2"]
+    },
+
+    "StorageTemperature": {
+      "type": "string",
+      "enum": ["RT",
+              "2 °C to 10°C",
+              "-18 °C to -35 °C",
+              "-60 °C to -85 °C",
+              "LN",
+              "Other"]
+    },
+
+
+    "TumorCellularity": {
+      "type": "integer"
+    }
+  }
+}

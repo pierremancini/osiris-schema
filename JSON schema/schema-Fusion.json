@@ -1,0 +1,103 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+
+    "AlterationType": {
+      "type": "string",
+      "enum": ["OSIRIS:O15-1",
+              "OSIRIS:O15-2",
+              "OSIRIS:O15-3",
+              "OSIRIS:O15-4",
+              "OSIRIS:O15-5",
+              "OSIRIS:O15-6",
+              "OSIRIS:O15-7",
+              "OSIRIS:O15-8",
+              "OSIRIS:O15-9",
+              "OSIRIS:O15-10"]
+
+    },
+
+    "Pathogenicity": {
+      "type": "string",
+      "enum": ["OSIRIS:O81-1",
+              "OSIRIS:O81-2",
+              "OSIRIS:O81-3",
+              "OSIRIS:O81-4",
+              "OSIRIS:O81-5"]
+    },
+
+
+    "Actionability": {
+      "type": "string",
+      "enum": ["OSIRIS:O82-1",
+              "OSIRIS:O82-2"
+              ]
+
+    },
+
+    "ProposedForOrientation": {
+      "type": "boolean"
+    },
+
+    "TypeFusion": {
+      "type": "string",
+      "enum": ["LOINC:LA26331-1",
+              "OSIRIS:O28-1"]
+    },
+
+    "Chromosome5prime": {
+
+    },
+
+    "Point5prime": {
+      "type": "string"
+    },
+
+    "Chromosome3prime": {
+
+    },
+
+    "Point3prime": {
+      "type": "string"
+    },
+
+
+    "NbSpanningPair": {
+      "type": "interger"
+    },
+
+
+    "NbSplitReads": {
+      "type": "interger"
+    },
+
+    "InFrame": {
+      "type": "boolean"
+    },
+
+    "GenomeBuild": {
+      "type": "string",
+      "enum": ["OSIRIS:O22-1", "OSIRIS:O22-2"]
+    },
+
+    "Type": {
+      "type": "string",
+      "enum": ["OSIRIS:O16-1",
+              "OSIRIS:O16-2",
+              "OSIRIS:O16-3"]
+    },
+
+    "Method": {
+      "type": "string"
+    },
+
+    "Status": {
+      "type": "string",
+      "enum": ["OSIRIS:O18-1",
+              "OSIRIS:O18-2"]
+    }
+  }
+}

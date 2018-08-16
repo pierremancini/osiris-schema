@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+    "Type": {
+      "type": "string",
+      "enum": ["UMLS:C1882062",
+              "UMLS:C2939419",
+              "UMLS:C0521158",
+              "UMLS:C0677930"
+              ]
+    },
+
+    "StartDate": {
+      "type": "string"
+    },
+
+    "PerformanceStatus": {
+      "type": "string",
+      "enum": ["0","1", "2", "3", "4"]
+    },
+
+    "G8": {
+      "type": "interger"
+    },
+
+    ""
+  }
+}

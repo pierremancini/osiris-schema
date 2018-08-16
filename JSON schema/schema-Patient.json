@@ -1,0 +1,97 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "Gender": {
+      "type": "string",
+      "enum": ["HL7:M", "HL7:F", "HL7:UN"]
+    },
+    "Ethnicity": {
+      "type": "string",
+      "enum": ["HL7:1002-5",
+              "HL7:1004-1",
+              "HL7:2028-9",
+              "HL7:2029-7",
+              "HL7:2030-5",
+              "HL7:2031-3",
+              "HL7:2032-1",
+              "HL7:2033-9",
+              "HL7:2034-7",
+              "HL7:2035-4",
+              "HL7:2036-2",
+              "HL7:2037-0",
+              "HL7:2038-8",
+              "HL7:2039-6",
+              "HL7:2040-4",
+              "HL7:2041-2",
+              "HL7:2042-0",
+              "HL7:2043-8",
+              "HL7:2044-6",
+              "HL7:2045-3",
+              "HL7:2046-1",
+              "HL7:2047-9",
+              "HL7:2048-7",
+              "HL7:2049-5",
+              "HL7:2050-3",
+              "HL7:2051-1",
+              "HL7:2052-9",
+              "HL7:2054-5",
+              "HL7:2056-0",
+              "HL7:2058-6",
+              "HL7:2060-2",
+              "HL7:2067-7",
+              "HL7:2068-5",
+              "HL7:2069-3",
+              "HL7:2070-1",
+              "HL7:2071-9",
+              "HL7:2072-7",
+              "HL7:2073-5",
+              "HL7:2074-3",
+              "HL7:2075-0",
+              "HL7:2076-8",
+              "HL7:2078-4",
+              "HL7:2085-9",
+              "HL7:2100-6",
+              "HL7:2500-7",
+              "HL7:2106-3",
+              "HL7:2108-9",
+              "HL7:2118-8",
+              "HL7:2129-5",
+              ]
+    },
+    "BirthDate": {
+      "type": "string"
+    }, 
+    "DeathDate": {
+      "type": "string"
+    },
+    "ProviderCenterId": {
+      "type": "string"
+    },
+    "OrginiCenterId": {
+      "type": "string"
+    },
+    "CauseOfDeath": {
+      "type": "string",
+      "enum": ["UMLS:C0277589",
+              "UMLS:C1707251",
+              "UMLS:C3262234",
+              "UMLS:C0679861",
+              "UMLS:C0027651"
+              ]
+    },
+    "LastNewsDate": {
+      "type": "string",
+      "enum": []
+    },
+    "LastNewsStatus": {
+      "type": "string",
+      "enum": ["UMLS:C2584946", "ULMS:C1546956"]
+    }
+  }
+}

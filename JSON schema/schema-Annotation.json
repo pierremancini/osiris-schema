@@ -1,0 +1,100 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+
+
+    "ReferenceType": {
+      "type": "string"
+    },
+
+    "ReferenceDatabase": {
+      "type": "string",
+      "enum": ["OSIRIS:O42-1", "OSIRIS:O42-2", "OSIRIS:O42-3", "OSIRIS:O91-1",
+              "OSIRIS:O91-2", "OSIRIS:O91-3", "OSIRIS:O91-4", "OSIRIS:O96-1",
+              "OSIRIS:O96-2"]
+    },
+
+    "ReferenceValue": {
+      "type": "string"
+    },
+
+    "Symbol": {
+      "type": "string"
+    },
+
+    "PfamDomain": {
+      "type": "string"
+    },
+
+    "PfamId": {
+      "type": "string"
+    },
+
+    "MutationPredictionAlgorithm": {
+      "type": "string",
+      "enum": ["OSIRIS:O63-1", "OSIRIS:O63-2"]
+    },
+
+
+    "MutationPredictionValue": {
+      "type": "string"
+    },
+
+    "MutationPredictionScore": {
+      "type": "number"
+    },
+
+    "DNARegionName": {
+      "type": "string"
+    },
+
+    "DNASequenceVariation": {
+      "type": "string"
+    },
+
+
+    "AminoAcidChange": {
+      "type": "string"
+    },
+
+
+    "GenomicSequenceVariation": {
+      "type": "string"
+    },
+
+
+    "RNASequenceVariation": {
+      "type": "string"
+    },
+
+
+    "AminoAcidChangeType": {
+      "type": "string",
+      "enum": ["LOINC:LA6692-3",
+              "LOINC:LA6686-5",
+              "LOINC:LA6694-9",
+              "LOINC:LA6695-6",
+              "LOINC:LA6687-3",
+              "LOINC:LA9659-9",
+              "LOINC:LA6698-0",
+              "LOINC:LA6699-8",
+              "LOINC:LA6700-4",
+              "LOINC:LA6701-2"]
+    },
+
+    "FusionPrimeEnd": {
+      "type": "string",
+      "enum": ["OSIRIS:O93-1", "OSIRIS:O93-2"]
+    },
+
+    "Strand": {
+      "type": "string",
+      "enum": ["OSIRIS:O94-1","OSIRIS:O94-2"]
+    }
+
+  }
+
+}

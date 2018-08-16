@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+
+    "Type": {
+      "type": "string",
+      "enum": ["UMLS:C3665472",
+              "UMLS:C0279025",
+              "UMLS:C1522449",
+              "UMLS:C0728940",
+              "UMLS:C0006098",
+              "UMLS:C0021083",
+              "UMLS:C0005961",
+              "UMLS:C0279694"]
+    },
+
+    "LineNumber": {
+
+    },
+
+    "ActivityCode": {
+      "type": "string"
+    },
+
+    "StartDate": {
+      "type": "string"
+    },
+
+    "EndDate": {
+      "type": "string
+    },
+
+    "ClinicalTrialContext": {
+      "type": "boolean"
+    },
+
+    "Treatment_ClinicalTrialName": {
+      "type": "string"
+    },
+
+    "Treatment_ClinicalTrialId": {
+      "type": "string"
+    },
+
+    "SurgeryResectionQuality": {
+      "type": "string",
+      "enum": ["R0", "R1", "R2"]
+    },
+
+    "SurgeryNature": {
+      "type": "string",
+      "enum": ["C4"]
+    }
+
+  }
+}

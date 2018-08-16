@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+
+    "Code": {
+      "type": "string",
+      "enum": []
+    },
+
+    "Date": {
+      "type": "string"
+    }, 
+
+    "EndDate": {
+      "type": "string"
+    },
+
+    "Grade": {
+      "type": "string"
+    }
+  }
+}

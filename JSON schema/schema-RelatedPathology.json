@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for RelatedPathology in osiris.json data files",
+  "title": "RelatedPathology"
+  "type": "object"
+  "properties": {
+
+    "PathologyCode": {
+      "type": "string",
+      "enum": [...]
+    },
+
+    "DiagnosisDate": {
+      "type": "string"
+    },
+
+    "PathologyEndDate": {
+      "type": "string"
+    }
+  }
+}

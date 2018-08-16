@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+    "Parentage": {
+      "type": "string",
+      "enum": ["UMLS:C0037047",
+              "UMLS:C0030551",
+              "UMLS:C0015671",
+              "UMLS:C0026591",
+              "UMLS:C3844804",
+              "UMLS:C3844805",
+              "UMLS:C3242761",
+              "UMLS:C3242764",
+              "UMLS:C1273524",
+              "UMLS:C1273525",
+              "UMLS:C1273523",
+              "UMLS:C1273522",
+              "UMLS:C0337471",
+              "UMLS:C0337577",
+              "UMLS:C3714276",
+              "UMLS:C3714277",
+              "UMLS:C0337576",
+              "UMLS:C3714274",
+              "UMLS:C3714275",
+              "UMLS:C0337580",
+              "OSIRIS:C77-6",
+              "OSIRIS:C77-7"]
+    }
+  }
+}

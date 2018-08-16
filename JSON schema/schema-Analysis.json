@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for patient in osiris.json data files",
+  "title": "Patient"
+  "type": "object"
+  "properties": {
+
+    "Code": {
+      "type": "string"
+    },
+
+    "Type": {
+      "type": "string",
+      "enum": ["OSIRIS:C37-1",
+              "OSIRIS:C37-2",
+              "OSIRIS:C37-3",
+              "OSIRIS:C37-4"]
+    },
+
+    "Date": {
+      "type": "string"
+    },
+
+    "TechnicalProtocol": {
+      "type": "string",
+      "enum": ["OSIRIS:O6-1",
+              "OSIRIS:O6-2",
+              "OSIRIS:O6-3",
+              "OSIRIS:O6-4",
+              "OSIRIS:O6-5",
+              "OSIRIS:O6-6",
+              "OSIRIS:O6-7",
+              "OSIRIS:O6-8",
+              "OSIRIS:O6-9",
+              "OSIRIS:O6-10",
+              "OSIRIS:O6-11",
+              "OSIRIS:O6-12",
+              "OSIRIS:O6-13",
+              "OSIRIS:O6-14",
+              "OSIRIS:O6-15",
+              "OSIRIS:O6-16"]
+    },
+
+    "PlatformName": {
+      "type": "string",
+      "enum": ["OSIRIS:O7-1",
+              "OSIRIS:O7-2",
+              "OSIRIS:O7-3",
+              "OSIRIS:O7-4",
+              "OSIRIS:O7-5",
+              "OSIRIS:O7-6",
+              "OSIRIS:O7-7",
+              "OSIRIS:O7-8",
+              "OSIRIS:O7-9",
+              "OSIRIS:O7-10",
+              "OSIRIS:O7-11",
+              "OSIRIS:O7-12",
+              "OSIRIS:O7-13",
+              "OSIRIS:O7-14",
+              "OSIRIS:O7-15",
+              "OSIRIS:O7-16",
+              "OSIRIS:O7-17",
+              "OSIRIS:O7-18",
+              "OSIRIS:O7-19",
+              "OSIRIS:O7-20",
+              "OSIRIS:O7-21",
+              "OSIRIS:O7-22",
+              "OSIRIS:O7-23",
+              "OSIRIS:O7-24",
+              "OSIRIS:O7-25",
+              "OSIRIS:O7-26",
+              "OSIRIS:O7-27",
+              "OSIRIS:O7-28",
+              "OSIRIS:O7-29",
+              "OSIRIS:O7-30",
+              "OSIRIS:O7-31",
+              "OSIRIS:O7-32",
+              "OSIRIS:O7-33",
+              "OSIRIS:O7-34",
+              "OSIRIS:O7-35",
+              "OSIRIS:O7-36",
+              "OSIRIS:O7-37",
+              "OSIRIS:O7-38",
+              "OSIRIS:O7-39",
+              "OSIRIS:O7-40",
+              "OSIRIS:O7-41",
+              "OSIRIS:O7-42",
+              "OSIRIS:O7-43",
+              "OSIRIS:O7-44",
+              "OSIRIS:O7-45",
+              "OSIRIS:O7-46",
+              "OSIRIS:O7-47",
+              "OSIRIS:O7-48",
+              "OSIRIS:O7-49",
+              "OSIRIS:O7-50",
+              "OSIRIS:O7-51",
+              "OSIRIS:O7-52",
+              "OSIRIS:O7-53",
+              "OSIRIS:O7-54",
+              "OSIRIS:O7-55",
+              "OSIRIS:O7-56",
+              "OSIRIS:O7-57",
+              "OSIRIS:O7-58",
+              "OSIRIS:O7-59",
+              "OSIRIS:O7-60",
+              "OSIRIS:O7-61",
+              "OSIRIS:O7-62",
+              "OSIRIS:O7-63",
+              "OSIRIS:O7-64",
+              "OSIRIS:O7-65",
+              "OSIRIS:O7-66",
+              "OSIRIS:O7-67",
+              "OSIRIS:O7-68",
+              "OSIRIS:O7-69",
+              "OSIRIS:O7-70",
+              "OSIRIS:O7-71",
+              "OSIRIS:O7-72",
+              "OSIRIS:O7-73",
+              "OSIRIS:O7-74",
+              "OSIRIS:O7-75",
+              "OSIRIS:O7-76",
+              "OSIRIS:O7-77",
+              "OSIRIS:O7-78",
+              "OSIRIS:O7-79",
+              "OSIRIS:O7-80",
+              "OSIRIS:O7-81",
+              "OSIRIS:O7-82",
+              "OSIRIS:O7-83",
+              "OSIRIS:O7-84",
+              "OSIRIS:O7-85",
+              "OSIRIS:O7-86",
+              "OSIRIS:O7-87",
+              "OSIRIS:O7-88"]
+    },
+
+    "PlatdormAccession": {
+      "type": "string"
+    },
+
+    "DateOfExperiment": {
+      "type": "string"
+    },
+
+    "Name": {
+      "type": "string",
+      "enum": ["OSIRIS:O10-0",
+              "OSIRIS:O10-1",
+              "OSIRIS:O10-2",
+              "OSIRIS:O10-3",
+              "OSIRIS:O10-4",
+              "OSIRIS:O10-5",
+              "OSIRIS:O10-6",
+              "OSIRIS:O10-7",
+              "OSIRIS:O10-8",
+              "OSIRIS:O10-9",
+              "OSIRIS:O10-10"]
+    },
+
+    "AnalyticPipelineCode": {
+      "type": "string"
+    },
+
+    "AlgorithmicCellularity": {
+      "type": "integer"
+    },
+
+    "AlgorithmicPloidy": {
+      "type": "string",
+      "enum": ["OSIRIS:O13-1",
+              "OSIRIS:O13-2",
+              "OSIRIS:O13-3",
+              "OSIRIS:O13-4",
+              "OSIRIS:O13-0"]
+    }
+
+    "NumberOfBreakPoints": {
+      "type": "string"
+    }
+  }
+}
