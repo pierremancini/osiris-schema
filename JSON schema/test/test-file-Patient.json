@@ -1,0 +1,28 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "Patient_Gender": "M",
+    "Patient_Ethnicity": "2043-8",
+    "Patient_BirthDate": "1967-11-08",
+    "Patient_DeathDate": "2017-11-29",
+    "Patient_ProviderCenterId": "IB",
+    "Patient_OriginCenterId": "IB",
+    "Patient_CauseOfDeath": "UMLS:C0027651",
+    "Patient_LastNewsDate": "2017-11-29",
+    "Patient_LastNewsStatus": "UMLS:C1546956"
+  },
+  {
+    "Patient_Id": "L036",
+    "Instance_Id": 2,
+    "Patient_Gender": "",
+    "Patient_Ethnicity": "",
+    "Patient_BirthDate": "",
+    "Patient_DeathDate": "",
+    "Patient_ProviderCenterId": "",
+    "Patient_OriginCenterId": "",
+    "Patient_CauseOfDeath": "",
+    "Patient_LastNewsDate": "",
+    "Patient_LastNewsStatus": ""
+  }
+]

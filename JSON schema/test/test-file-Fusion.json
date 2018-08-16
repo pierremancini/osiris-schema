@@ -1,0 +1,20 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "Analysis_Ref": 2,
+    "AlterationOnSample_AlterationType": "OSIRIS:O15-3",
+    "AlterationOnSample_Pathogenicity": "",
+    "AlterationOnSample_Actionability": "",
+    "AlterationOnSample_ProposedForOrientation": "",
+    "Fusion_Type": "LOINC:LA26331-1",
+    "Fusion_Point5prime": "",
+    "Fusion_Point3prime": "",
+    "Fusion_NbSpanningPair": 33,
+    "Fusion_NbSplitReads": 5,
+    "Fusion_InFrame": 1,
+    "Validation_Type": "OSIRIS:O16-3",
+    "Validation_Method": "",
+    "Validation_Status": "OSIRIS:O18-2"
+  }
+]

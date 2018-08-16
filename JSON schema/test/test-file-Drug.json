@@ -1,0 +1,16 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "Treatment_Ref": 2,
+    "Drug_Code": "c3564",
+    "Drug_Name": "cis-platine"
+  },
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 2,
+    "Treatment_Ref": 2,
+    "Drug_Code": "f456",
+    "Drug_Name": "Imatinib"
+  }
+]

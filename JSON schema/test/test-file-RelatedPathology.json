@@ -1,0 +1,9 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "RelatedPathology_PathologyCode": "R60.9",
+    "RelatedPathology_DiagnosisDate": "2002-11-14",
+    "RelatedPathology_PathologyEndDate": "2003-11-19"
+  }
+]

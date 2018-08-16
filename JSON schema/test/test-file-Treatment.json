@@ -1,0 +1,32 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "TumorPathologyEvent_Ref": 1,
+    "Treatment_Type": "UMLS:C0728940",
+    "Treatment_LineNumber": 2,
+    "Treatment_ActivityCode": "",
+    "Treatment_StartDate": "2006-01-04",
+    "Treatment_EndDate": "2006-11-23",
+    "Treatment_ClinicalTrialContext": 0,
+    "Treatment_ClinicalTrialName": "",
+    "Treatment_ClinicalTrialId": "",
+    "Treatment_SurgeryResectionQuality": "R0",
+    "Treatment_SurgeryNature": ""
+  },
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 2,
+    "TumorPathologyEvent_Ref": 2,
+    "Treatment_Type": "UMLS:C3665472",
+    "Treatment_LineNumber": "",
+    "Treatment_ActivityCode": "",
+    "Treatment_StartDate": "2007-01-12",
+    "Treatment_EndDate": "2008-11-17",
+    "Treatment_ClinicalTrialContext": 1,
+    "Treatment_ClinicalTrialName": "",
+    "Treatment_ClinicalTrialId": "",
+    "Treatment_SurgeryResectionQuality": "R1",
+    "Treatment_SurgeryNature": ""
+  }
+]

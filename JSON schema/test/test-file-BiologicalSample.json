@@ -1,0 +1,30 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "TumorPathologyEvent_Ref": 1,
+    "Consent_Ref": 1,
+    "BiologicalSample_SampleExternalAccession": "ech primary",
+    "BiologicalSample_ParentSampleExternalAccession": "",
+    "BiologicalSample_CollectDate": "2005-12-27",
+    "BiologicalSample_TopographyCode": "C34",
+    "BiologicalSample_Nature": "C4039816",
+    "BiologicalSample_Origin": "OSIRIS:O59-2",
+    "BiologicalSample_StorageTemperature": "MIABIS:Tissue Frozen",
+    "BiologicalSample_TumorCellularity": 30
+  },
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 2,
+    "TumorPathologyEvent_Ref": 2,
+    "Consent_Ref": 1,
+    "BiologicalSample_SampleExternalAccession": "ech 2",
+    "BiologicalSample_ParentSampleExternalAccession": "ech primary",
+    "BiologicalSample_CollectDate": "2011-02-08",
+    "BiologicalSample_TopographyCode": "C30",
+    "BiologicalSample_Nature": "C1519524",
+    "BiologicalSample_Origin": "OSIRIS:O59-2",
+    "BiologicalSample_StorageTemperature": "FFPE",
+    "BiologicalSample_TumorCellularity": 60
+  }
+]

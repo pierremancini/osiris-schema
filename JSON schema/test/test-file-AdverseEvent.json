@@ -1,0 +1,12 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "Treatment_Ref": 2,
+    "TumorPahtologyEvent_Ref": 1,
+    "AdverseEvent_Code": "Mal à la tete",
+    "AdverseEvent_Date": "2007-06-13",
+    "AdverseEvent_EndDate": "2007-07-10",
+    "AdverseEvent_Grade": ""
+  }
+]

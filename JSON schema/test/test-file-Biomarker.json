@@ -1,0 +1,10 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "Analysis_Ref": 1,
+    "Biomarker_Code": "cg6548",
+    "Biomarker_Value": "++",
+    "Biomarker_Unit": ""
+  }
+]

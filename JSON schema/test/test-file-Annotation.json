@@ -1,0 +1,25 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "Alteration_Ref": 1,
+    "AlterationOnSample_AlterationType": "OSIRIS:O15-4",
+    "Annotation_ReferenceType": "OSIRIS:O90-1",
+    "Annotation_ReferenceDatabase": "COSMIC",
+    "Annotation_ReferenceValue": "COSM760",
+    "Annotation_Symbol": "PI3K",
+    "Annotation_PfamDomain": "PI3K_rbd; PI3-kinase family, ras-binding domain",
+    "Annotation_PfamId": "pfam00794",
+    "Annotation_MutationPredictionAlgorithm": "SIFT",
+    "Annotation_MutationPredictionValue": "Deleterious",
+    "Annotation_MutationPredictionScore": 0.35,
+    "Annotation_DNARegionName": "exon 2",
+    "Annotation_DNASequenceVariation": "c.1624G>A",
+    "Annotation_AminoAcidChange": "p.E542K",
+    "Annotation_GenomicSequenceVariation": "",
+    "Annotation_RNASequenceVariation": "",
+    "Annotation_AminoAcidChangeType": "LA6698-0",
+    "FusionPrimeEnd": "",
+    "Strand": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Patient_Id": "L304",
+    "Instance_Id": 1,
+    "Analysis_Ref": 3,
+    "AlterationOnSample_AlterationType": "OSIRIS:O15-4",
+    "AlterationOnSample_Pathogenicity": "",
+    "AlterationOnSample_Actionability": "",
+    "AlterationOnSample_ProposedForOrientation": "",
+    "Alteration_Chromosome": "LA21263-1",
+    "Alteration_GenomicStart": 87751512,
+    "Alteration_GenomicStop": 88104391,
+    "Alteration_GenomeBuild": "hg19",
+    "Alteration_Cytoband": "10q23.31",
+    "CNV_SegmentIntensity": 33,
+    "CNV_SegmentGenomicStatus": "OSIRIS:O49-2",
+    "CNV_CopyNumber": 3,
+    "CNV_LOH": 0,
+    "Validation_Type": "OSIRIS:O16-2",
+    "Validation_Method": "Visual check",
+    "Validation_Status": "OSIRIS:O18-2"
+  }
+]
