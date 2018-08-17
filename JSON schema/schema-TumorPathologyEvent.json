@@ -9,8 +9,8 @@
       "enum": ["UMLS:C1882062",
               "UMLS:C2939419",
               "UMLS:C0521158",
-              "UMLS:C0677930"
-              ]
+              "UMLS:C0677930",
+              "UMLS:C0439673"]
     },
 
     "StartDate": {
@@ -19,13 +19,49 @@
 
     "PerformanceStatus": {
       "type": "string",
-      "enum": ["0","1", "2", "3", "4"]
+      "enum": ["0","1", "2", "3", "4", "UMLS:C0439673"]
     },
 
     "G8": {
       "type": "interger"
     },
 
-    ""
+    "HistologicalGradeType": {
+
+    },
+
+    "HistologicalGradeValue": {
+
+    },
+
+    "StadeType": {
+
+    },
+
+    "StadeValue": {
+
+    },
+
+    "DiagnosisDate": {
+      "type": "string"
+    },
+
+    "TopographyCode": {
+      "type": "string"
+    },
+
+    "MorphologyCode": {
+      "type": "string"
+    },
+
+    "Laterality": {
+      "type": "string",
+      "enum": ["UMLS:C0238767",
+              "UMLS:C0205091",
+              "UMLS:C2939193",
+              "UMLS:C1272460",
+              "UMLS:C0205090",
+              "UMLS:C0439673"]
+    }
   }
 }

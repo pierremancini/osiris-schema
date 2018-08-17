@@ -5,27 +5,55 @@
   "type": "object"
   "properties": {
 
-
     "Version": {
-
+      "type": "string",
+      "enum": ["OSIRIS:C27-1",
+              "OSIRIS:C27-2",
+              "OSIRIS:C27-3",
+              "UMLS:C0439673"]
     },
 
     "Type": {
-
+      "type": "string",
+      "enum": ["c",
+              "p",
+              "y",
+              "u",
+              "UMLS:C0439673"]
     }, 
 
     "T": {
-
+      "type": "string",
+      "enum": ["Tx",
+              "T0",
+              "T1",
+              "T1a",
+              "T1b",
+              "T1c",
+              "T2",
+              "T3",
+              "T4",
+              "T4a",
+              "T4b",
+              "T4c",
+              "T4d"]
     },
-
 
     "N": {
-
+      "type": "string",
+      "enum":["Nx",
+            "N0",
+            "N1mi",
+            "N1",
+            "N2",
+            "N3"]
     },
 
-
     "M": {
-
+      "type": "string",
+      "enum": ["Mx",
+              "M0",
+              "M1"]
     }
   }
 }

@@ -81,7 +81,7 @@
     }
 
 
-    "Type": {
+    "ValidationType": {
       "type": "string",
       "enum": ["OSIRIS:O16-1",
               "OSIRIS:O16-2",

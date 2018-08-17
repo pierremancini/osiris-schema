@@ -5,6 +5,19 @@
   "type": "object"
   "properties": {
 
+    "AlterationOnSample_AlterationType": {
+      "type": "string",
+      "enum": ["OSIRIS:O15-1",
+              "OSIRIS:O15-2",
+              "OSIRIS:O15-3",
+              "OSIRIS:O15-4",
+              "OSIRIS:O15-5",
+              "OSIRIS:O15-6",
+              "OSIRIS:O15-7",
+              "OSIRIS:O15-8",
+              "OSIRIS:O15-9",
+              "OSIRIS:O15-10"]
+    }
 
     "ReferenceType": {
       "type": "string"
