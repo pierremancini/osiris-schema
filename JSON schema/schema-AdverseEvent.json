@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "description": "Schema for patient in osiris.json data files",
-  "title": "Patient"
-  "type": "object"
+  "title": "Patient",
+  "type": "object",
   "properties": {
 
     "Code": {

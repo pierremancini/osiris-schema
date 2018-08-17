@@ -62,6 +62,31 @@
               "UMLS:C1272460",
               "UMLS:C0205090",
               "UMLS:C0439673"]
+    },
+
+
+    "TumorPathologyEvent": {
+      "$ref": "#"
+    },
+
+    "TNM": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-TNM.json"
+    },
+
+    "Treatment": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Treatment.json"
+    },
+
+    "Analysis": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Analysis.json"
+    },
+
+    "BiologicalSample": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-BiologicalSample.json"
+    },
+
+    "AdverseEvent": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-AdverseEvent.json"
     }
   }
 }

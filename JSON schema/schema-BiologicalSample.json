@@ -5,6 +5,10 @@
   "type": "object"
   "properties": {
 
+    "Consent_Ref": {
+      "type": "integer"
+    },
+
     "SampleExternalAccession": {
       "type": "string"
     },
@@ -46,9 +50,12 @@
               "Other"]
     },
 
-
     "TumorCellularity": {
       "type": "integer"
+    },
+
+    "Analysis": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Analysis.json"
     }
   }
 }

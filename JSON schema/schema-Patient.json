@@ -1,16 +1,19 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "description": "Schema for patient in osiris.json data files",
-  "title": "Patient"
-  "type": "object"
+  "title": "Patient",
+  "type": "object",
   "properties": {
+
     "id": {
       "type": "string"
     },
+
     "Gender": {
       "type": "string",
       "enum": ["HL7:M", "HL7:F", "HL7:UN"]
     },
+
     "Ethnicity": {
       "type": "string",
       "enum": ["HL7:1002-5",
@@ -61,37 +64,58 @@
               "HL7:2106-3",
               "HL7:2108-9",
               "HL7:2118-8",
-              "HL7:2129-5",
-              ]
+              "HL7:2129-5"]
     },
+
     "BirthDate": {
       "type": "string"
-    }, 
+    },
+
     "DeathDate": {
       "type": "string"
     },
+
     "ProviderCenterId": {
       "type": "string"
     },
+
     "OrginiCenterId": {
       "type": "string"
     },
+
     "CauseOfDeath": {
       "type": "string",
       "enum": ["UMLS:C0277589",
               "UMLS:C1707251",
               "UMLS:C3262234",
               "UMLS:C0679861",
-              "UMLS:C0027651"
-              ]
+              "UMLS:C0027651"]
     },
+
     "LastNewsDate": {
       "type": "string",
       "enum": []
     },
+
     "LastNewsStatus": {
       "type": "string",
       "enum": ["UMLS:C2584946", "ULMS:C1546956"]
-    }
+    },
+
+    "RelatedPathology": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-RelatedPathology.json"
+    },
+
+    "TumorPathologyEvent": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-TumorPathologyEvent.json"
+    },
+
+    "Consent": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Consent.json"
+    },
+
+    "FamillyCancerHistoy": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-FamillyCancerHistoy.json"
+    },
   }
 }

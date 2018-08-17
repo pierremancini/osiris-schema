@@ -96,6 +96,10 @@
       "type": "string",
       "enum": ["OSIRIS:O18-1",
               "OSIRIS:O18-2"]
+    },
+
+    "Annotation": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Annotation.json"
     }
   }
 }

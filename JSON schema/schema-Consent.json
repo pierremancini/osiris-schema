@@ -12,6 +12,10 @@
 
     "GeneticAnalysisAuthorization": {
       "type": "string"
+    },
+
+    "BiologicalSample": {
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-BiologicalSample.json"
     }
   }
 }

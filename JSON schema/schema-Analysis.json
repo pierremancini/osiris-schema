@@ -175,6 +175,26 @@
 
     "NumberOfBreakPoints": {
       "type": "string"
+    },
+
+    "Biomarker": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Biomarker.json"
+    },
+
+    "Variant": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Variant.json"
+    },
+
+    "CopyNumber": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-CopyNumber.json"
+    },
+
+    "Fusion": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Fusion.json"
+    },
+
+    "Expression": { 
+      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Expression.json"
     }
   }
 }
