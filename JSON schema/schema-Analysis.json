@@ -177,24 +177,39 @@
       "type": "string"
     },
 
-    "Biomarker": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Biomarker.json"
+    "Biomarker": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Biomarker.json"
+      }
     },
 
-    "Variant": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Variant.json"
+    "Variant": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Variant.json"
+      }
     },
 
-    "CopyNumber": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-CopyNumber.json"
+    "CopyNumber": {
+      "type": "array",
+      "items": { 
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-CopyNumber.json"
+      }
     },
 
-    "Fusion": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Fusion.json"
+    "Fusion": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Fusion.json"
+      }
     },
 
-    "Expression": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Expression.json"
+    "Expression": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Expression.json"
+      }
     }
   }
 }

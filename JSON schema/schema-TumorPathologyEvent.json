@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "description": "Schema for patient in osiris.json data files",
-  "title": "Patient"
-  "type": "object"
+  "title": "Patient",
+  "type": "object",
   "properties": {
     "Type": {
       "type": "string",
@@ -66,27 +66,45 @@
 
 
     "TumorPathologyEvent": {
-      "$ref": "#"
+      "type": "array",
+      "items": {
+        "$ref": "#"
+      }
     },
 
-    "TNM": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-TNM.json"
+    "TNM": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-TNM.json"
+      }
     },
 
-    "Treatment": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Treatment.json"
+    "Treatment": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Treatment.json"
+      }
     },
 
     "Analysis": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Analysis.json"
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Analysis.json"
+      }
     },
 
     "BiologicalSample": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-BiologicalSample.json"
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-BiologicalSample.json"
+      }
     },
 
-    "AdverseEvent": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-AdverseEvent.json"
+    "AdverseEvent": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-AdverseEvent.json"
+      }
     }
   }
 }

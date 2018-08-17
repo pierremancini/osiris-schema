@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "description": "Schema for patient in osiris.json data files",
-  "title": "Patient"
-  "type": "object"
+  "title": "Patient",
+  "type": "object",
   "properties": {
 
     "AlterationType": {
@@ -100,8 +100,11 @@
               "OSIRIS:O18-2"]
     },
 
-    "Annotation": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Annotation.json"
+    "Annotation": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Annotation.json"
+      }
     }
   }
 }

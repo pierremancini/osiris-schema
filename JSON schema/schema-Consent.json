@@ -15,7 +15,10 @@
     },
 
     "BiologicalSample": {
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-BiologicalSample.json"
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-BiologicalSample.json"
+      }
     }
   }
 }

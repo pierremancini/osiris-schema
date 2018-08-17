@@ -54,8 +54,11 @@
       "type": "integer"
     },
 
-    "Analysis": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Analysis.json"
+    "Analysis": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Analysis.json"
+      }
     }
   }
 }

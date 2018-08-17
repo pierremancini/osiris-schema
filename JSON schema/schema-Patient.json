@@ -102,20 +102,32 @@
       "enum": ["UMLS:C2584946", "ULMS:C1546956"]
     },
 
-    "RelatedPathology": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-RelatedPathology.json"
+    "RelatedPathology": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-RelatedPathology.json"
+      }
     },
 
-    "TumorPathologyEvent": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-TumorPathologyEvent.json"
+    "TumorPathologyEvent": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-TumorPathologyEvent.json"
+      }
     },
 
     "Consent": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Consent.json"
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Consent.json"
+      }
     },
 
-    "FamillyCancerHistoy": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-FamillyCancerHistoy.json"
+    "FamillyCancerHistoy": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-FamillyCancerHistoy.json"
+      }
     },
   }
 }

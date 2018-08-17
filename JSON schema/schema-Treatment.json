@@ -55,16 +55,25 @@
       "enum": ["C4"]
     },
 
-    "ResponseEvalutaion": { 
-      "$ref": "file://home/pmancini/Code/osiris-schema/JSON schema/schema-ResponseEvalutaion.json"
+    "ResponseEvalutaion": {
+      "type": "array",
+      "items": {
+        "$ref": "file://home/pmancini/Code/osiris-schema/JSON schema/schema-ResponseEvalutaion.json"
+      }
     },
 
-    "Drug": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Drug.json"
+    "Drug": {
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Drug.json"
+      }
     },
 
     "AdverseEvent": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-AdverseEvent.json"
+      "type": "array",
+      "items": {
+        "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-AdverseEvent.json"
+      }
     }
   }
 }
