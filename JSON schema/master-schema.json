@@ -2,84 +2,8 @@
   "$schema": "http://json-schema.org/draft-04/schema#",
   "description": "Schema général décrivant OSIRIS",
   "title": "Parent schema OSIRIS",
-  "type": "object",
-  "required": ["Patient"],
-  "properties": {
-
-    "AdverseEvent": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-AdverseEvent.json"
-    },
-
-    "Analysis": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Analysis.json"
-    },
-
-    "Annotation": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Annotation.json"
-    },
-
-    "BiologicalSample": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-BiologicalSample.json"
-    },
-
-    "Biomarker": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Biomarker.json"
-    },
-
-    "CancerHistory": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-CancerHistory.json"
-    },
-
-    "Consent": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Consent.json"
-    },
-
-    "CopyNumber": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-CopyNumber.json"
-    },
-
-    "Drug": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Drug.json"
-    },
-
-    "Expression": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Expression.json"
-    },
-
-    "FamillyCancerHistoy": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-FamillyCancerHistoy.json"
-    },
-
-    "Fusion": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Fusion.json"
-    },
-
-    "Patient": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Patient.json"
-    },
-
-    "RelatedPathology": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-RelatedPathology.json"
-    },
-
-    "ResponseEvalutaion": { 
-      "$ref": "file://home/pmancini/Code/osiris-schema/JSON schema/schema-ResponseEvalutaion.json"
-    },
-
-    "TNM": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-TNM.json"
-    },
-
-    "Treatment": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Treatment.json"
-    },
-
-    "TumorPathologyEvent": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-TumorPathologyEvent.json"
-    },
-
-    "Variant": { 
-      "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Variant.json"
-    }
+  "type": "array",
+  "items": {
+    "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-Patient.json"
   }
 }
