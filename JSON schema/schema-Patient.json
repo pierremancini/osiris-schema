@@ -93,8 +93,7 @@
     },
 
     "LastNewsDate": {
-      "type": "string",
-      "enum": []
+      "type": "string"
     },
 
     "LastNewsStatus": {
