@@ -1,0 +1,9 @@
+Objectclass	ObjectProperty	ConceptualDomain	enum
+RelatedPathology	PathologyCode	ICD-10	
+AdverseEvent	Code		
+BiologicalSample	TopographyCode	CIM-O-3 Topo	
+Biomarker	Code		
+Drug	Code	ATC 5e niveau	
+Drug	Name	ATC 5e niveau	
+Treatment	SurgeryNature		C4
+Annotation	ReferenceType		
