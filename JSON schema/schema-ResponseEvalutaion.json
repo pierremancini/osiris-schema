@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "description": "Schema for Response Evaluation in osiris.json data files",
-  "title": "Response Evaluation"
+  "title": "ResponseEvaluation"
   "properties": {
     "Date": {
         "type": "string"

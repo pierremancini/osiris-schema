@@ -122,7 +122,7 @@
       }
     },
 
-    "FamillyCancerHistoy": {
+    "FamilyCancerHistoy": {
       "type": "array",
       "items": {
         "$ref": "file:///home/pmancini/Code/osiris-schema/JSON schema/schema-FamillyCancerHistoy.json"
