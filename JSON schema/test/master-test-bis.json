@@ -1,0 +1,127 @@
+[
+
+  "L304": {
+    "Gender": "M",
+    "Ethnicity": "HL7:2043-8",
+    "BirthDate": "1967-11-08",
+    "DeathDate": "2017-11-29",
+    "ProviderCenterId": "IB",
+    "OriginCenterId": "IB",
+    "CauseOfDeath": "UMLS:C0027651",
+    "LastNewsDate": "2017-11-29",
+    "LastNewsStatus": "UMLS:C1546956",
+
+    "RelatedPathology": [
+      {
+        "RelatedPathology_PathologyCode": "R60.9",
+        "RelatedPathology_DiagnosisDate": "2002-11-14",
+        "RelatedPathology_PathologyEndDate": "2003-11-19"
+      }
+    ],
+
+    "TumorPathologyEvent": [
+      {
+        "Patient_Id": "L304",
+        "Instance_Id": 1,
+        "TumorPathologyEvent_Type": "UMLS:C0677930",
+        "TumorPathologyEvent_StartDate": "2005-11-17",
+        "TumorPathologyEvent_PerformanceStatus": 1,
+        "TumorPathologyEvent_G8": 6,
+        "TumorPathologyEvent_T": "T0",
+        "TumorPathologyEvent_N": "N1mi",
+        "TumorPathologyEvent_M": "M1",
+        "TumorPathologyEvent_TNMVersion": "",
+        "TumorPathologyEvent_TNMType": "c",
+        "TumorPathologyEvent_HistologicalGradeType": "",
+        "TumorPathologyEvent_HistologicalGradeValue": "",
+        "TumorPathologyEvent_StadeType": "",
+        "TumorPathologyEvent_StadeValue": "",
+        "TumorPathologyEvent_DiagnosisDate": "2005-11-17",
+        "TumorPathologyEvent_TopographyCode": "C00.8",
+        "TumorPathologyEvent_MorphologyCode": "8002/3",
+        "Laterality": "UMLS:C0238767",
+        "Treament": [
+            {
+            "Patient_Id": "L304",
+            "Instance_Id": 1,
+            "TumorPathologyEvent_Ref": 1,
+            "Treatment_Type": "UMLS:C0728940",
+            "Treatment_LineNumber": 2,
+            "Treatment_ActivityCode": "",
+            "Treatment_StartDate": "2006-01-04",
+            "Treatment_EndDate": "2006-11-23",
+            "Treatment_ClinicalTrialContext": 0,
+            "Treatment_ClinicalTrialName": "",
+            "Treatment_ClinicalTrialId": "",
+            "Treatment_SurgeryResectionQuality": "R0",
+            "SurgeryNature": ""
+            }
+        ],
+
+        "TumorPathologyEvent": [
+          {
+            "Type": "UMLS:C0521158",
+            "StartDate": "2010-11-18",
+            "PerformanceStatus": 6,
+            "G8": 6,
+            "T": "T1",
+            "N": "N2",
+            "M": "M1",
+            "TNMVersion": "",
+            "TNMType": "p",
+            "HistologicalGradeType": "",
+            "HistologicalGradeValue": "",
+            "StadeType": "",
+            "StadeValue": "",
+            "DiagnosisDate": "2010-11-18",
+            "TopographyCode": "C11.1",
+            "MorphologyCode": "8000-1",
+            "Laterality": "UMLS:C0439673",
+            "Treatment": [
+              {
+                "Type": "UMLS:C3665472",
+                "LineNumber": "",
+                "ActivityCode": "",
+                "StartDate": "2007-01-12",
+                "EndDate": "2008-11-17",
+                "ClinicalTrialContext": 1,
+                "ClinicalTrialName": "",
+                "ClinicalTrialId": "",
+                "SurgeryResectionQuality": "R1",
+                "SurgeryNature": ""
+              }
+            ]
+          }
+        ]
+      }
+
+    ],
+
+    "FamilyCancerHistory": [
+      {
+        "FamilyCancerHistory_TopographyCode": "C00.5",
+        "FamilyCancerHistory_Parentage": "C0037047"
+      }
+    ],
+
+    "Consent": [
+      {
+        "Consent_Date": "2000-11-16",
+        "Consent_GeneticAnalysisAuthorization": 0
+      }
+    ]
+  },
+
+
+  "L036": {
+    "Gender": "",
+    "Ethnicity": "",
+    "BirthDate": "",
+    "DeathDate": "",
+    "ProviderCenterId": "",
+    "OriginCenterId": "",
+    "CauseOfDeath": "",
+    "LastNewsDate": "",
+    "LastNewsStatus": ""
+  }
+]
