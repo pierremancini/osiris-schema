@@ -1,0 +1,278 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema for osiris.json data files",
+  "type": "array",
+  "definitions": {
+    "osiris-dataset": {
+      "description": "Dataset describing one patient based on osiris model.",
+      "anyOf": [
+        {
+          "$ref": "#/definitions/Patient"
+        },
+        {
+          "$ref": "#/definitions/experiment"
+        },
+        {
+          "$ref": "#/definitions/alteration"
+        }
+      ]
+    },
+    "Gender": {
+      "description": "Gender of the patient.",
+      "enum": [
+        "M",
+        "F",
+        "UN"
+      ]
+    },
+    "Ethnicity": {
+      "description": "Ethnicity of the patient.",
+      "enum": [
+        "FHIR:1002-5",
+        "FHIR:1004-1",
+        "FHIR:2028-9",
+        "FHIR:2029-7",
+        "FHIR:2030-5",
+        "FHIR:2031-3",
+        "FHIR:2032-1",
+        "FHIR:2033-9",
+        "FHIR:2034-7",
+        "FHIR:2035-4",
+        "FHIR:2036-2",
+        "FHIR:2037-0",
+        "FHIR:2038-8",
+        "FHIR:2039-6",
+        "FHIR:2040-4",
+        "FHIR:2041-2",
+        "FHIR:2042-0",
+        "FHIR:2043-8",
+        "FHIR:2044-6",
+        "FHIR:2045-3",
+        "FHIR:2046-1",
+        "FHIR:2047-9",
+        "FHIR:2048-7",
+        "FHIR:2049-5",
+        "FHIR:2050-3",
+        "FHIR:2051-1",
+        "FHIR:2052-9",
+        "FHIR:2054-5",
+        "FHIR:2056-0",
+        "FHIR:2058-6",
+        "FHIR:2060-2",
+        "FHIR:2067-7",
+        "FHIR:2068-5",
+        "FHIR:2069-3",
+        "FHIR:2070-1",
+        "FHIR:2071-9",
+        "FHIR:2072-7",
+        "FHIR:2073-5",
+        "FHIR:2074-3",
+        "FHIR:2075-0",
+        "FHIR:2076-8",
+        "FHIR:2078-4",
+        "FHIR:2085-9",
+        "FHIR:2100-6",
+        "FHIR:2500-7",
+        "FHIR:2106-3",
+        "FHIR:2108-9",
+        "FHIR:2118-8",
+        "FHIR:2129-5"
+      ]
+    },
+    "BirthDate": {
+      "description": "Date of birth of the patient.",
+      "type": "string",
+      "format": "date-time"
+    },
+    "DeathDate": {
+      "description": "Date of death of the patient.",
+      "type": "string",
+      "format": "date-time"
+    },
+    "CenterId": {
+      "description": "Id du centre.",
+      "type": "string"
+    },
+    "CauseOfDeath": {
+      "description": "Gender of the patient.",
+      "enum": [
+        "UMLS:C0277589",
+        "UMLS:C1707251",
+        "UMLS:C3262234",
+        "UMLS:C0679861",
+        "UMLS:C0027651"
+      ]
+    },
+    "LastNewsDate": {
+      "description": "Date of last news from the patient.",
+      "type": "string",
+      "format": "date-time"
+    },
+    "LastNewsStatus": {
+      "description": "Gender of the patient.",
+      "enum": [
+        "UMLS:C2584946",
+        "UMLS:C1546956"
+      ]
+    },
+    "Patient": {
+      "description": "Patient descriptive data",
+      "properties": {
+        "Gender": {
+          "$ref": "#/definitions/Gender"
+        },
+        "Ethnicity": {
+          "$ref": "#/definitions/Ethnicity"
+        },
+        "BirthDate": {
+          "$ref": "#/definitions/BirthDate"
+        },
+        "DeathDate": {
+          "$ref": "#/definitions/DeathDate"
+        },
+        "CenterId": {
+          "$ref": "#/definitions/CenterId"
+        },
+        "CauseOfDeath": {
+          "$ref": "#/definitions/CauseOfDeath"
+        },
+        "LastNewsDate": {
+          "$ref": "#/definitions/LastNewsDate"
+        },
+        "LastNewsStatus": {
+          "$ref": "#/definitions/LastNewsStatus"
+        }
+      }
+    },
+    "Consent": {
+      "description": "Consent of the patient.",
+      "properties": {
+        "ExpirationDate": {
+          "description": "Date de validité du consentement",
+          "type": "string",
+          "format": "date-time"
+        },
+        "IntrinsicAnalysisAuth": {
+          "description": "Autorisation pour analyses en constitutionnelle",
+          "type": "boolean"
+        },
+        "SomaticAnalysisAuth": {
+          "description": "Autorisation pour analyses en somatique",
+          "type": "boolean"
+        }
+      }
+    },
+    "RelatedPathology": {
+      "description": "Related pathologies of the patient.",
+      "properties": {
+        "PathologyCode": {
+          "description": "Code de la pathologie",
+          "enum": [
+            "ICD-10_01",
+            "ICD-10_02",
+            "ICD-10_03"
+          ]
+        },
+        "DiagnosisDate": {
+          "description": "Date de diagnostique",
+          "type": "string",
+          "format": "date-time"
+        },
+        "PathologyEndDate": {
+          "description": "Date de fin",
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "DiagnosisDate": {
+      "description": "Date de diagnostic de l'antécédent carcinologique",
+      "type": "string",
+      "format": "date-time"
+    },
+    "TopographyCode": {
+      "description": "Code international de la localisation de l'antécédent carcinologique",
+      "enum": [
+        "CIM-O-3_T_01",
+        "CIM-O-3_T_02",
+        "CIM-O-3_T_03"
+      ]
+    },
+    "MorphologyCode": {
+      "description": "Code international de la lésion / type histologique / morphologie de l'antécédent carcinologique",
+      "enum": [
+        "CIM-O-3_M_01",
+        "CIM-O-3_M_02",
+        "CIM-O-3_M_03"
+      ]
+    },
+    "CancerHistory": {
+      "description": "Related pathologies of the patient.",
+      "properties": {
+        "DiagnosisDate": {
+          "$ref": "#/definitions/DiagnosisDate"
+        },
+        "TopographyCode": {
+          "$ref": "#/definitions/TopographyCode"
+        },
+        "MorphologyCode": {
+          "$ref": "#/definitions/MorphologyCode"
+        },
+        "Type": {
+          "description": "Type d'antécédent (Personnel ou Familial)",
+          "enum": [
+            "OSIRIS:C19-1",
+            "OSIRIS:C19-2"
+          ]
+        }
+      }
+    },
+    "TumorPathologyEvent": {
+      "description": "Tumoral event.",
+      "properties": {
+        "parentEventId": {
+          "type": "integer"
+        },
+        "event_startDate": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "eventType": {
+          "enum": [
+            "UMLS:C1882062",
+            "UMLS:C0677930",
+            "UMLS:C0521158",
+            "UMLS:C2939419"
+          ]
+        },
+        "laterality": {
+          "enum": [
+            "UMLS:C0205091",
+            "UMLS:C0205090",
+            "UMLS:C0238767",
+            "UMLS:C2939193"
+          ]
+        }
+      }
+    },
+    "experiment": {
+      "description": "Patient full data",
+      "properties": {
+        "gender": {
+          "$ref": "#/definitions/Gender"
+        }
+      }
+    },
+    "alteration": {
+      "description": "Patient full data",
+      "properties": {
+        "Gender": {
+          "$ref": "#/definitions/Gender"
+        }
+      }
+    }
+  },
+  "items": {
+    "$ref": "#/definitions/osiris-dataset"
+  }
+}

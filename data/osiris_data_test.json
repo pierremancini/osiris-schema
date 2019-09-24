@@ -1,0 +1,342 @@
+[
+    {
+        "Patient": {
+            "Gender": "",
+            "Ethnicity": "",
+            "BirthDate": "",
+            "DeathDate": "",
+            "ProviderCenterId": "",
+            "OriginCenterId": "",
+            "CauseOfDeath": "",
+            "LastNewsDate": "",
+            "LastNewsStatus": ""
+            "TumorPathologyEvent": {
+                
+            },
+            "RelatedPathology": [
+                {
+                    "PathologyCode": "",
+                    "DiagnosisDate": "",
+                    "PathologyEndDate": ""
+                }
+            ],
+            "FamilyCancerHistory": [
+                {
+                    "TopographyCode": "",
+                    "Parentage": ""
+                }
+            ],
+            "Consent": [
+                {
+                    "Date": "",
+                    "GeneticAnalysisAuthorization": ""
+                }
+            ],
+            "TumorPathologyEvent": [
+                {
+                    "ParentRef": "",
+                    "Type": "",
+                    "StartDate": "",
+                    "PerformanceStatus": "",
+                    "G8": "",
+                    "HistologicalGradeType": "",
+                    "HistologicalGradeValue": "",
+                    "StadeType": "",
+                    "StadeValue": "",
+                    "DiagnosisDate": "",
+                    "TopographyCode": "",
+                    "MorphologyCode": "",
+                    "Laterality": "",
+                    "TNM": [
+                        {
+                            "T": "",
+                            "N": "",
+                            "M": "",
+                            "Version": "",
+                            "Type": ""
+                        }
+                    ],
+                    "Treatment": [
+                        {
+                            "Type": "",
+                            "LineNumber": "",
+                            "ActivityCode": "",
+                            "StartDate": "",
+                            "EndDate": "",
+                            "ClinicalTrialContext": "",
+                            "ClinicalTrialName": "",
+                            "ClinicalTrialId": "",
+                            "SurgeryResectionQuality": "",
+                            "SurgeryNature": "",
+                            "ResponseEvaluation": [
+                                {
+                                    "Date": "",
+                                    "Status": ""
+                                }
+                            ],
+                            "Drug": [
+                                {
+                                    "Code": "",
+                                    "Name": ""
+                                }
+                            ],
+                            "AdverseEvent": [
+                                {
+                                    "TumorPathologyEvent_Ref": "",
+                                    "Code": "",
+                                    "Date": "",
+                                    "EndDate": "",
+                                    "Grade": ""
+                                }
+                            ],
+                        }
+                    ],
+                    "BiologicalSample": [
+                        {
+                            "Consent_Ref": "",
+                            "SampleExternalAccession": "",
+                            "ParentSampleExternalAccession": "",
+                            "CollectDate": "",
+                            "TopographyCode": "",
+                            "Nature": "",
+                            "Origin": "",
+                            "StorageTemperature": "",
+                            "TumorCellularity": "",
+                            "Analysis": [
+                                {}
+                            ]
+                        }
+                    ],
+                    "Analysis": [
+                        {
+                            "Code": "",
+                            "Type": "",
+                            "Date": "",
+                            "Technology": {
+                                "TechnicalProtocol": "",
+                                "PlatformName": "",
+                                "PlatformAccession": "",
+                                "DateOfExperiment": ""
+                            },
+                            "Panel": {
+                                "Name": ""
+                            },
+                            "AnalysisProcess": {
+                                "AnalyticPipelineCode": ""
+                            },
+                            "OmicAnalysis": {
+                                "AlgorithmicCellularity": "",
+                                "AlgorithmicPloidy": "",
+                                "NumberOfBreakPoints": ""
+                            },
+                            "Biomaker": [
+                                {
+                                    "Code": "",
+                                    "Value": "",
+                                    "Unit": ""
+                                }
+                            ],
+                            "Variant": [
+                                {
+                                    "AlterationOnSample": {
+                                        "AlterationType": "",
+                                        "Pathogenicity": "",
+                                        "Actionability": "",
+                                        "ProposedForOrientation": ""
+                                    },
+                                    "Alteration": {
+                                        "Chromosome": "",
+                                        "GenomicStart": "",
+                                        "GenomicStop": "",
+                                        "GenomeBuild": "",
+                                        "Cytoband": ""
+                                    },
+                                    "Variant": {
+                                        "ReferenceAllele": "",
+                                        "AlternativeAllele": "",
+                                        "DNASequenceVariationType": "",
+                                    },
+                                    "VariantInSample": {
+                                        "PositionReadDepth": "",
+                                        "VariantReadDepth": "",
+                                        "StrandBias": "",
+                                        "GenomicSourceClass": "",
+                                        "AllelicState": "",
+                                    },
+                                    "Validation": {
+                                        "Type": "",
+                                        "Method": "",
+                                        "Status": ""
+                                    },
+                                    "Annotation": [
+                                        {
+                                        "ReferenceType": "",
+                                        "ReferenceDatabase": "",
+                                        "ReferenceValue": "",
+                                        "Symbol": "",
+                                        "PfamDomain": "",
+                                        "PfamId": "",
+                                        "MutationPredictionAlgorithm": "",
+                                        "MutationPredictionValue": "",
+                                        "MutationPredictionScore": "",
+                                        "DNARegionName": "",
+                                        "DNASequenceVariation": "",
+                                        "AminoAcidChange": "",
+                                        "GenomicSequenceVariation": "",
+                                        "RNASequenceVariation": "",
+                                        "AminoAcidChangeType": "",
+                                        "FusionPrimeEnd": "",
+                                        "Strand": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "CopyNumber": [
+                                {
+                                    "AlterationOnSample": {
+                                        "AlterationType": "",
+                                        "Pathogenicity": "",
+                                        "Actionability": "",
+                                        "ProposedForOrientation": ""
+                                    },
+                                    "Alteration": {
+                                        "Chromosome": "",
+                                        "GenomicStart": "",
+                                        "GenomicStop": "",
+                                        "GenomeBuild": "",
+                                        "Cytoband": ""
+                                    },
+                                    "CNV": {
+                                        "SegmentIntensity": "",
+                                        "SegmentGenomicStatus": "",
+                                        "CopyNumber": "",
+                                        "LOH": ""
+                                    },
+                                    "Validation": {
+                                        "Type": "",
+                                        "Method": "",
+                                        "Status": ""
+                                    },
+                                    "Annotation": [
+                                        {
+                                        "ReferenceType": "",
+                                        "ReferenceDatabase": "",
+                                        "ReferenceValue": "",
+                                        "Symbol": "",
+                                        "PfamDomain": "",
+                                        "PfamId": "",
+                                        "MutationPredictionAlgorithm": "",
+                                        "MutationPredictionValue": "",
+                                        "MutationPredictionScore": "",
+                                        "DNARegionName": "",
+                                        "DNASequenceVariation": "",
+                                        "AminoAcidChange": "",
+                                        "GenomicSequenceVariation": "",
+                                        "RNASequenceVariation": "",
+                                        "AminoAcidChangeType": "",
+                                        "FusionPrimeEnd": "",
+                                        "Strand": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "Fusion": [
+                                {
+                                    "AlterationOnSample": {
+                                        "AlterationType": "",
+                                        "Pathogenicity": "",
+                                        "Actionability": "",
+                                        "ProposedForOrientation": ""
+                                    },
+                                    "Fusion": {
+                                        "Type": "",
+                                        "Chromosome5prime": "",
+                                        "Point5prime": "",
+                                        "Chromosome3prime": "",
+                                        "Point3prime": "",
+                                        "NbSpanningPair": "",
+                                        "NbSplitReads": "",
+                                        "InFrame": "",
+                                        "GenomeBuild": ""
+                                    },
+                                    "Validation": {
+                                        "Type": "",
+                                        "Method": "",
+                                        "Status": ""
+                                    },
+                                    "Annotation": [
+                                        {
+                                        "ReferenceType": "",
+                                        "ReferenceDatabase": "",
+                                        "ReferenceValue": "",
+                                        "Symbol": "",
+                                        "PfamDomain": "",
+                                        "PfamId": "",
+                                        "MutationPredictionAlgorithm": "",
+                                        "MutationPredictionValue": "",
+                                        "MutationPredictionScore": "",
+                                        "DNARegionName": "",
+                                        "DNASequenceVariation": "",
+                                        "AminoAcidChange": "",
+                                        "GenomicSequenceVariation": "",
+                                        "RNASequenceVariation": "",
+                                        "AminoAcidChangeType": "",
+                                        "FusionPrimeEnd": "",
+                                        "Strand": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "Expression": [
+                                {
+                                    "AlterationOnSample": {
+                                        "AlterationType": "",
+                                        "Pathogenicity": "",
+                                        "Actionability": "",
+                                        "ProposedForOrientation": ""
+                                    },
+                                    "GenomeEntity": {
+                                        "Type": "",
+                                        "Database": "",
+                                        "Id": "",
+                                        "Symbol": ""
+                                    },
+                                    "GeneExpression": {
+                                        "DataType": "",
+                                        "Value": ""
+                                    },
+                                    "Validation": {
+                                        "Type": "",
+                                        "Method": "",
+                                        "Status": ""
+                                    },
+                                    "Annotation": [
+                                        {
+                                        "ReferenceType": "",
+                                        "ReferenceDatabase": "",
+                                        "ReferenceValue": "",
+                                        "Symbol": "",
+                                        "PfamDomain": "",
+                                        "PfamId": "",
+                                        "MutationPredictionAlgorithm": "",
+                                        "MutationPredictionValue": "",
+                                        "MutationPredictionScore": "",
+                                        "DNARegionName": "",
+                                        "DNASequenceVariation": "",
+                                        "AminoAcidChange": "",
+                                        "GenomicSequenceVariation": "",
+                                        "RNASequenceVariation": "",
+                                        "AminoAcidChangeType": "",
+                                        "FusionPrimeEnd": "",
+                                        "Strand": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1910 @@
+x	LabelValueMeaning	Referentiel	url	TypeConceptualDomain	FormatConceptualDomain	IdDataElementConcept	ConceptualDomain	ObjectClass	ObjectProperty	DataElementConcept
+				nonEnumerated	String	C1		Patient	Id	Patient_Id
+HL7:M	Male	FHIR (HL7) v3	http://hl7.org/fhir/v3/AdministrativeGender	Enumerated	String	C2	HL7 v3 Code System AdministrativeGender	Patient	Gender	Patient_Gender
+HL7:F	Female	FHIR (HL7) v3	http://hl7.org/fhir/v3/AdministrativeGender	Enumerated	String	C2	HL7 v3 Code System AdministrativeGender	Patient	Gender	Patient_Gender
+HL7:UN	Undifferentiated	FHIR (HL7) v3	http://hl7.org/fhir/v3/AdministrativeGender	Enumerated	String	C2	HL7 v3 Code System AdministrativeGender	Patient	Gender	Patient_Gender
+HL7:1002-5	American Indian or Alaska Native	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:1004-1	American Indian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2028-9	Asian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2029-7	Asian Indian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2030-5	Bangladeshi	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2031-3	Bhutanese	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2032-1	Burmese	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2033-9	Cambodian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2034-7	Chinese	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2035-4	Taiwanese	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2036-2	Filipino	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2037-0	Hmong	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2038-8	Indonesian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2039-6	Japanese	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2040-4	Korean	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2041-2	Laotian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2042-0	Malaysian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2043-8	Okinawan	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2044-6	Pakistani	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2045-3	Sri Lankan	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2046-1	Thai	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2047-9	Vietnamese	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2048-7	Iwo Jiman	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2049-5	Maldivian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2050-3	Nepalese	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2051-1	Singaporean	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2052-9	Madagascar	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2054-5	Black or African American	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2056-0	Black	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2058-6	African American	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2060-2	African	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2067-7	Bahamian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2068-5	Barbadian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2069-3	Dominican	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2070-1	Dominica Islander	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2071-9	Haitian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2072-7	Jamaican	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2073-5	Tobagoan	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2074-3	Trinidadian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2075-0	West Indian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2076-8	Native Hawaiian or Other Pacific Islander	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2078-4	Polynesian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2085-9	Micronesian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2100-6	Melanesian	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2500-7	Other Pacific Islander	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2106-3	White	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2108-9	European	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2118-8	Middle Eastern or North African	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+HL7:2129-5	Arab	FHIR (HL7) v3	https://www.hl7.org/fhir/v3/Race	Enumerated	String	C3	HL7 v3 Code System Race	Patient	Ethnicity	Patient_Ethnicity
+				nonEnumerated	Date	C4		Patient	BirthDate	Patient_BirthDate
+				nonEnumerated	Date	C5		Patient	DeathDate	Patient_DeathDate
+		FINESS geographique		nonEnumerated	String	C6		Patient	ProviderCenterId	Patient_CenterId
+		FINESS geographique		nonEnumerated	String	C71		Patient	OriginCenterId	Patient_CenterId
+UMLS:C0277589	Death of unknown cause	UMLS	https://uts.nlm.nih.gov/metathesaurus.html#C0277589;0;1;CUI;2016AA;EXACT_MATCH;CUI;*;	Enumerated	String	C7	UMLS:C0007465	Patient	CauseOfDeath	Patient_CauseOfDeath
+UMLS:C1707251	Other cancer	UMLS	https://uts.nlm.nih.gov/metathesaurus.html#C1707251;0;1;CUI;2016AA;EXACT_MATCH;CUI;*;	Enumerated	String	C7	UMLS:C0007465	Patient	CauseOfDeath	Patient_CauseOfDeath
+UMLS:C3262234	Other cause	UMLS	https://uts.nlm.nih.gov/metathesaurus.html#C3262234;0;1;CUI;2016AA;EXACT_MATCH;CUI;*;	Enumerated	String	C7	UMLS:C0007465	Patient	CauseOfDeath	Patient_CauseOfDeath
+UMLS:C0679861	Complications of treatment	UMLS	https://uts.nlm.nih.gov/metathesaurus.html#C0679861;0;1;CUI;2016AA;EXACT_MATCH;CUI;*;	Enumerated	String	C7	UMLS:C0007465	Patient	CauseOfDeath	Patient_CauseOfDeath
+UMLS:C0027651	Neoplasm	UMLS	https://uts.nlm.nih.gov/metathesaurus.html#C0027651;0;1;CUI;2016AA;EXACT_MATCH;CUI;*;	Enumerated	String	C7	UMLS:C0007465	Patient	CauseOfDeath	Patient_CauseOfDeath
+				nonEnumerated	Date	C8		Patient	LastNewsDate	Patient_LastNewsDate
+UMLS:C2584946	Alive (finding)	UMLS		Enumerated	String	C9		Patient	LastNewsStatus	Patient_LastNewsStatus
+ULMS:C1546956	Patient Outcome - Died	UMLS		Enumerated	String	C9		Patient	LastNewsStatus	Patient_LastNewsStatus
+				nonEnumerated	Date	C72		Consent	Date	Consent_Date
+				nonEnumerated	Boolean	C79		Consent	GeneticAnalysisAuthorization	Consent_GeneticAnalysisAuthorization
+		ICD-10	http://apps.who.int/classifications/icd10/browse/2016/en	Enumerated	String	C13	ICD-10	RelatedPathology	PathologyCode	RelatedPathology_PathologyCode
+				nonEnumerated	Date	C14		RelatedPathology	DiagnosisDate	RelatedPathology_DiagnosisDate
+				nonEnumerated	Date	C15		RelatedPathology	PathologyEndDate	RelatedPathology_PathologyEndDate
+		CIM-O-3 Topo	http://codes.iarc.fr/topography	Enumerated	String	C17	CIM-O-3 Topo	CancerHistory	TopographyCode	CancerHistory_TopographyCode
+UMLS:C0037047	Sibling	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C0030551	Parent	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C0015671	Father	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C0026591	Mother	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C3844804	Paternal cousin	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C3844805	Maternal cousin	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C3242761	Maternal grandparent	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C3242764	Paternal grandparent	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C1273524	Paternal grandmother	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C1273525	Maternal grandmother	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C1273523	Maternal grandfather	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C1273522	Paternal grandfather	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C0337471	Grandparent	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C0337577	Uncle	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C3714276	Paternal uncle	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C3714277	Maternal uncle	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C0337576	Aunt	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C3714274	Paternal aunt	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C3714275	Maternal aunt	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C0337580	Cousin	UMLS		Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+OSIRIS:C77-6	Other	ICGC	https://github.com/icgc-dcc/dcc-docs/blob/master/docs/dictionary/release-20/donor-family.md	Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+OSIRIS:C77-7	Unknown	ICGC	https://github.com/icgc-dcc/dcc-docs/blob/master/docs/dictionary/release-20/donor-family.md	Enumerated	String	C77	OSIRIS:FamilyCancerHistoryParentage	FamilyCancerHistory	Parentage	FamilyCancerHistory_Parentage
+UMLS:C1882062 	Neoplasm	UMLS		Enumerated	String	C20	OSIRIS:EventType	TumorPathologyEvent	Type	TumorPathologyEvent_Type
+UMLS:C2939419	Metastatic Malignant Neoplasm (NCI:C36263)	UMLS		Enumerated	String	C20	OSIRIS:EventType	TumorPathologyEvent	Type	TumorPathologyEvent_Type
+UMLS:C0521158	Recurrent tumor	UMLS		Enumerated	String	C20	OSIRIS:EventType	TumorPathologyEvent	Type	TumorPathologyEvent_Type
+UMLS:C0677930	Primary tumor	UMLS		Enumerated	String	C20	OSIRIS:EventType	TumorPathologyEvent	Type	TumorPathologyEvent_Type
+				nonEnumerated	Date	C21		TumorPathologyEvent	StartDate	TumorPathologyEvent_StartDate
+0	activité normale sans restriction	OMS		Enumerated	String	C22	OMS	TumorPathologyEvent	PerformanceStatus	TumorPathologyEvent_PerformanceStatus
+1	restreint pour des activités physiques importantes, mais patient ambulant et capable de fournir un travail léger	OMS		Enumerated	String	C22	OMS	TumorPathologyEvent	PerformanceStatus	TumorPathologyEvent_PerformanceStatus
+2	ambulant et capable de se prendre en charge, mais incapable de fournir un travail et alité pendant moins de 50 % de son temps	OMS		Enumerated	String	C22	OMS	TumorPathologyEvent	PerformanceStatus	TumorPathologyEvent_PerformanceStatus
+3	capacité de prise en charge propre beaucoup plus limitée. Passe plus de 50 % de son temps au lit ou dans une chaise.	OMS		Enumerated	String	C22	OMS	TumorPathologyEvent	PerformanceStatus	TumorPathologyEvent_PerformanceStatus
+4	complètement grabataire. Incapable de se prendre en charge. Le patient reste totalement confiné au lit ou dans une chaise.	OMS		Enumerated	String	C22	OMS	TumorPathologyEvent	PerformanceStatus	TumorPathologyEvent_PerformanceStatus
+				nonEnumerated	Integer	C23	G8	TumorPathologyEvent	G8	TumorPathologyEvent_G8
+Tx	Tx			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T0	T0			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T1	T1			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T1a	T1a			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T1b	T1b			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T1c	T1c			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T2	T2			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T3	T3			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T4	T4			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T4a	T4a			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T4b	T4b			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T4c	T4c			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+T4d	T4d			Enumerated	String	C24	OSIRIS:T_TNM	TumorPathologyEvent	T	TumorPathologyEvent_T
+Nx	Nx			Enumerated	String	C25	OSIRIS:N_TNM	TumorPathologyEvent	N	TumorPathologyEvent_N
+N0	N0			Enumerated	String	C25	OSIRIS:N_TNM	TumorPathologyEvent	N	TumorPathologyEvent_N
+N1mi	N1mi			Enumerated	String	C25	OSIRIS:N_TNM	TumorPathologyEvent	N	TumorPathologyEvent_N
+N1	N1			Enumerated	String	C25	OSIRIS:N_TNM	TumorPathologyEvent	N	TumorPathologyEvent_N
+N2	N2			Enumerated	String	C25	OSIRIS:N_TNM	TumorPathologyEvent	N	TumorPathologyEvent_N
+N3	N3			Enumerated	String	C25	OSIRIS:N_TNM	TumorPathologyEvent	N	TumorPathologyEvent_N
+Mx	Mx			Enumerated	String	C26	OSIRIS:M_TNM	TumorPathologyEvent	M	TumorPathologyEvent_M
+M0	M0			Enumerated	String	C26	OSIRIS:M_TNM	TumorPathologyEvent	M	TumorPathologyEvent_M
+M1	M1			Enumerated	String	C26	OSIRIS:M_TNM	TumorPathologyEvent	M	TumorPathologyEvent_M
+			UICC TNM Classification 7th edition	Enumerated	String	C27	OSIRIS:TNMVersion	TumorPathologyEvent	TNMVersion	TumorPathologyEvent_TNMVersion
+c	Clinique			Enumerated	String	C28	OSIRIS:TNMType	TumorPathologyEvent	TNMType	TumorPathologyEvent_TNMType
+p	Pathologique			Enumerated	String	C28	OSIRIS:TNMType	TumorPathologyEvent	TNMType	TumorPathologyEvent_TNMType
+y	Après traitement neoadjuvant			Enumerated	String	C28	OSIRIS:TNMType	TumorPathologyEvent	TNMType	TumorPathologyEvent_TNMType
+u	Radiologique			Enumerated	String	C28	OSIRIS:TNMType	TumorPathologyEvent	TNMType	TumorPathologyEvent_TNMType
+		SBR, ...				C29	OSIRIS:HistologicalGradeType	TumorPathologyEvent	HistologicalGradeType	TumorPathologyEvent_HistologicalGradeType
+						C30	OSIRIS:HistologicalGradeValue	TumorPathologyEvent	HistologicalGradeValue	TumorPathologyEvent_HistologicalGradeValue
+						C31	OSIRIS:StadeType	TumorPathologyEvent	StadeType	TumorPathologyEvent_StadeType
+						C32	OSIRIS:StadeValue	TumorPathologyEvent	StadeValue	TumorPathologyEvent_StadeValue
+				nonEnumerated	Date	C33		TumorPathologyEvent	DiagnosisDate	TumorPathologyEvent_DiagnosisDate
+		CIM-O-3 Topo	http://codes.iarc.fr/topography	Enumerated	String	C34	CIM-O-3 Topo	TumorPathologyEvent	TopographyCode	TumorPathologyEvent_TopographyCode
+		CIM-O-3 Morpho	http://codes.iarc.fr/codegroup/2	Enumerated	String	C35	CIM-O-3 Morpho	TumorPathologyEvent	MorphologyCode	TumorPathologyEvent_MorphologyCode
+UMLS:C0238767	Bilateral	UMLS		Enumerated	String	C36	OSIRIS:Laterality	TumorPathologyEvent	Laterality	TumorPathologyEvent_Laterality
+UMLS:C0205091	Left	UMLS		Enumerated	String	C36	OSIRIS:Laterality	TumorPathologyEvent	Laterality	TumorPathologyEvent_Laterality
+UMLS:C2939193	Median (qualifier value)	UMLS		Enumerated	String	C36	OSIRIS:Laterality	TumorPathologyEvent	Laterality	TumorPathologyEvent_Laterality
+UMLS:C1272460	Not Applicable	UMLS		Enumerated	String	C36	OSIRIS:Laterality	TumorPathologyEvent	Laterality	TumorPathologyEvent_Laterality
+UMLS:C0205090	Right	UMLS		Enumerated	String	C36	OSIRIS:Laterality	TumorPathologyEvent	Laterality	TumorPathologyEvent_Laterality
+UMLS:C0439673	Unknown	UMLS		Enumerated	String	C36	OSIRIS:Laterality	TumorPathologyEvent	Laterality	TumorPathologyEvent_Laterality
+				nonEnumerated	String	C70	OSIRIS:AnalysisCode	Analysis	Code	Analysis_Code
+OSIRIS:C37-1	Biology			Enumerated	String	C37	OSIRIS:AnalysisType	Analysis	Type	Analysis_Type
+OSIRIS:C37-2	Imaging			Enumerated	String	C37	OSIRIS:AnalysisType	Analysis	Type	Analysis_Type
+OSIRIS:C37-3	Omic			Enumerated	String	C37	OSIRIS:AnalysisType	Analysis	Type	Analysis_Type
+OSIRIS:C37-4	Pathology			Enumerated	String	C37	OSIRIS:AnalysisType	Analysis	Type	Analysis_Type
+				nonEnumerated	Date	C38		Analysis	Date	Analysis_Date
+				nonEnumerated	Date	C78		ResponseEvaluation	Date	Analysis_ResponseEvaluation
+CR	Complete Response	RESIST v1.1		Enumerated	String	C73		ResponseEvaluation	Status	Analysis_ResponseEvaluation
+PR	Partial Response	RESIST v1.1		Enumerated	String	C73		ResponseEvaluation	Status	Analysis_ResponseEvaluation
+SD	Stable disease	RESIST v1.1		Enumerated	String	C73		ResponseEvaluation	Status	Analysis_ResponseEvaluation
+PD	Progressive Disease	RESIST v1.1		Enumerated	String	C73		ResponseEvaluation	Status	Analysis_ResponseEvaluation
+				Enumerated	String	C39		Biomarker	Code	Biomarker_Code
+				nonEnumerated	String	C40		Biomarker	Value	Biomarker_Value
+				nonEnumerated	String	C81		Biomarker	Unit	Biomarker_Unit
+UMLS:C3665472	Chemotherapy	UMLS		Enumerated	String	C41	OSIRIS:TreatmentType	Treatment	Type	Treatment_Type
+UMLS:C0279025	Hormone therapy	UMLS		Enumerated	String	C41	OSIRIS:TreatmentType	Treatment	Type	Treatment_Type
+UMLS:C1522449	Therapeutic radiology procedure	UMLS		Enumerated	String	C41	OSIRIS:TreatmentType	Treatment	Type	Treatment_Type
+UMLS:C0728940	Surgery	UMLS		Enumerated	String	C41	OSIRIS:TreatmentType	Treatment	Type	Treatment_Type
+UMLS:C0006098	Brachytherapy	UMLS		Enumerated	String	C41	OSIRIS:TreatmentType	Treatment	Type	Treatment_Type
+UMLS:C0021083	Immunotherapy	UMLS		Enumerated	String	C41	OSIRIS:TreatmentType	Treatment	Type	Treatment_Type
+UMLS:C0005961	Bone marrow transplant	UMLS		Enumerated	String	C41	OSIRIS:TreatmentType	Treatment	Type	Treatment_Type
+UMLS:C0279694	Monoclonal antibody	UMLS		Enumerated	String	C41	OSIRIS:TreatmentType	Treatment	Type	Treatment_Type
+				nonEnumerated	Integer	C74	OSIRIS:TreatmentType			
+		CCAM	http://www.ameli.fr/accueil-de-la-ccam/index.php	Enumerated	String	C42	CCAM	Treatment	ActivityCode	Treatment_ActivityCode
+				nonEnumerated	Date	C43		Treatment	StartDate	Treatment_StartDate
+				nonEnumerated	Date	C44		Treatment	EndDate	Treatment_EndDate
+				nonEnumerated	Boolean	C45		Treatment	ClinicalTrialContext	Treatment_ClinicalTrialContext
+				nonEnumerated	String	C75			Treatment_ClinicalTrialName	
+		NCT		nonEnumerated	String	C76			Treatment_ClinicalTrialId	
+R0	No apparent residual disease	ICGC		Enumerated	String	C46	ICGC	Treatment	SurgeryResectionQuality	Treatment_SurgeryResectionQuality
+R1	Microscopic residual disease	ICGC		Enumerated	String	C46	ICGC	Treatment	SurgeryResectionQuality	Treatment_SurgeryResectionQuality
+R2	Gross residual disease	ICGC		Enumerated	String	C46	ICGC	Treatment	SurgeryResectionQuality	Treatment_SurgeryResectionQuality
+C4				Enumerated	String	C47		Treatment	SurgeryNature	Treatment_SurgeryNature
+				Enumerated	String	C48		AdverseEvent	Code	AdverseEvent_Code
+				nonEnumerated	Date	C49		AdverseEvent	Date	AdverseEvent_Date
+				nonEnumerated	Date	C50		AdverseEvent	EndDate	AdverseEvent_EndDate
+		CTCAE (NCI)		nonEnumerated	String	C80		AdverseEvent	Grade	AdverseEvent_Grade
+		ATC 5e niveau		Enumerated	String	C51	ATC 5e niveau	Drug	Code	Drug_Code
+		ATC 5e niveau		Enumerated	String	C52	ATC 5e niveau	Drug	Name	Drug_Name
+		MIABIS-39	https://github.com/MIABIS/miabis/wiki/Data-describing-Sample	nonEnumerated	String	C53	MIABIS-39	BiologicalSample	SampleExternalAccession	BiologicalSample_SampleExternalAccession
+		MIABIS-40	https://github.com/MIABIS/miabis/wiki/Data-describing-Sample	nonEnumerated	String	C54	MIABIS-40	BiologicalSample	ParentSampleExternalAccession	BiologicalSample_ParentSampleExternalAccession
+		MIABIS-43	https://github.com/MIABIS/miabis/wiki/Data-describing-Sample	nonEnumerated	Date	C56	MIABIS-43	BiologicalSample	CollectDate	BiologicalSample_CollectDate
+		CIM-O-3 Topo	http://codes.iarc.fr/topography	Enumerated	String	C57	CIM-O-3 Topo	BiologicalSample	TopographyCode	BiologicalSample_TopographyCode
+UMLS:C0005767	Blood	MIABIS-41/MIABIS-2.0-14	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#material-type	Enumerated	String	C58	MIABIS-41	BiologicalSample	Nature	BiologicalSample_Nature
+UMLS:C0032105	Plasma	MIABIS-41/MIABIS-2.0-14	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#material-type	Enumerated	String	C58	MIABIS-41	BiologicalSample	Nature	BiologicalSample_Nature
+UMLS:C0085983	Tumor Cell Line	MIABIS-41/MIABIS-2.0-14	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#material-type	Enumerated	String	C58	MIABIS-41	BiologicalSample	Nature	BiologicalSample_Nature
+UMLS:C4039816	Frozen tissue	MIABIS-41/MIABIS-2.0-14	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#material-type	Enumerated	String	C58	MIABIS-41	BiologicalSample	Nature	BiologicalSample_Nature
+UMLS:C1519524	Paraffin Embedded Tissue (FFPE)	MIABIS-41/MIABIS-2.0-14	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#material-type	Enumerated	String	C58	MIABIS-41	BiologicalSample	Nature	BiologicalSample_Nature
+OSIRIS:O59-1	Normal	OSIRIS		Enumerated	String	C59	OSIRIS:SampleOrigin	BiologicalSample	Origin	BiologicalSample_Origin
+OSIRIS:O59-2	Tumoral	OSIRIS		Enumerated	String	C59	OSIRIS:SampleOrigin	BiologicalSample	Origin	BiologicalSample_Origin
+RT	Room temperature	MIABIS-2.0-15	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#miabis-20-15	Enumerated	String	C60	MIABIS-2.0-15	BiologicalSample	StorageTemperature	BiologicalSample_StorageTemperature
+2 °C to 10°C	Between 2 °C and 10 °C	MIABIS-2.0-15	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#miabis-20-15	Enumerated	String	C60	MIABIS-2.0-15	BiologicalSample	StorageTemperature	BiologicalSample_StorageTemperature
+-18 °C to -35 °C	Between -18 °C and -35 °C	MIABIS-2.0-15	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#miabis-20-15	Enumerated	String	C60	MIABIS-2.0-15	BiologicalSample	StorageTemperature	BiologicalSample_StorageTemperature
+-60 °C to -85 °C	Between -60 °C and -85 °C	MIABIS-2.0-15	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#miabis-20-15	Enumerated	String	C60	MIABIS-2.0-15	BiologicalSample	StorageTemperature	BiologicalSample_StorageTemperature
+LN	Liquid nitrogen, -150 °C to -196 °C	MIABIS-2.0-15	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#miabis-20-15	Enumerated	String	C60	MIABIS-2.0-15	BiologicalSample	StorageTemperature	BiologicalSample_StorageTemperature
+Other	Other	MIABIS-2.0-15	https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#miabis-20-15	Enumerated	String	C60	MIABIS-2.0-15	BiologicalSample	StorageTemperature	BiologicalSample_StorageTemperature
+				nonEnumerated	Integer	C61		BiologicalSample	TumorCellularity	BiologicalSample_TumorCellularity
+										
+										
+										
+OSIRIS:O6-1	ChIP-on-Chip	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-2	ChIP-seq	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-3	DNA microarray	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-4	DNA targeted panel sequencing	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-5	Exome sequencing	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-6	Mass spectrometry	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-7	MeDIP-Chip	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-8	MeDIP-seq	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-9	Methylation microarray	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-10	RNA microarray	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-11	RNA targeted panel sequencing	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-12	RNA-seq	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-13	RPPA	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-14	Whole genome bisulfite sequencing	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-15	Whole genome sequencing	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O6-16	miRNA microarray	OSIRIS		Enumerated	String	O6	OSIRIS:TechnicalProtocol	Technology	TechnicalProtocol	Technology_TechnicalProtocol
+OSIRIS:O7-1	Affymetrix Cytoscan HD	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-2	Affymetrix EMET Plus Premier Pack	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-3	Affymetrix Genome-Wide Human SNP Array 5.0	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-4	Affymetrix Genome-Wide Human SNP Array 6.0	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-5	Affymetrix HT Human Genome U133A Array Plate Set	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-6	Affymetrix Human Exon 1.0 ST	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-7	Affymetrix Human Gene 1.0 ST	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-8	Affymetrix Human Genome U219 Array Plate	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-9	Affymetrix Human MIP 330K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-10	Affymetrix Human U133 Plus 2.0	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-11	Affymetrix Human U133 Plus PM	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-12	Affymetrix Mapping 100K Array Set	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-13	Affymetrix Mapping 10K 2.0 Array Set	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-14	Affymetrix Mapping 500K Array Set	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-15	Affymetrix OncoScan FFPE Express 2.0	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-16	Agilent 244K Custom Gene Expression G4502A-07	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-17	Agilent 244K Custom Gene Expression G4502A-07-1	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-18	Agilent 244K Custom Gene Expression G4502A-07-2	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-19	Agilent 244K Custom Gene Expression G4502A-07-3	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-20	Agilent 8 x 15K Human miRNA-specific microarray	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-21	Agilent Human CGH 1x1M	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-22	Agilent Human CGH 2x400K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-23	Agilent Human CGH 4x180K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-24	Agilent Human CGH 8x60K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-25	Agilent Human CNV 2x400K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-26	Agilent Human CNV Association 2x105K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-27	Agilent Human CpG Island Microarray Kit	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-28	Agilent Human Genome 105A	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-29	Agilent Human Genome 244A	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-30	Agilent Human Genome 44K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-31	Agilent Human Genome CGH Custom Microaary 2x415K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-32	Agilent Human miRNA Microarray Kit (v2)	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-33	Agilent Human Promoter ChIP-on-chip Microarray Set	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-34	Agilent Human SpliceArray	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-35	Agilent Whole Human Genome Oligo Microarray Kit	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-36	Almac Human CRC	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-37	capillary sequencing	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-38	Complete Genomics	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-39	Custom-designed cDNA array	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-40	Custom-designed gene expression array	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-41	Helicos sequencing	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-42	HumanOmni2.5-8 BeadChip Kit	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-43	Illumina GA sequencing	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-44	Illumina goldengate methylation	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-45	Illumina GoldenGate Methylation Cancer Panel I	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-46	Illumina HiSeq	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-47	Illumina HiSeq X Ten	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-48	Illumina Human Omni1-Quad beadchip	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-49	Illumina Human1M OmniQuad chip	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-50	Illumina human1m-duo	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-51	Illumina human510s-duo	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-52	Illumina human660w-quad	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-53	Illumina HumanCNV370-Duo v1.0 BeadChip	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-54	Illumina humancytosnp-12	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-55	Illumina HumanHap550	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-56	Illumina HumanHT-12 v4.0 beadchip	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-57	Illumina humanht-16	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-58	Illumina humanht-17	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-59	Illumina humanmethylation27	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-60	Illumina HumanOmniExpress BeadChip	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-61	Illumina HumanRef-8 v3.0 beadchip	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-62	Illumina HumanWG-6 v3.0 beadchip	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-63	Illumina Infinium HumanMethylation450	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-64	Illumina microRNA Expression Profiling Panel	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-65	Illumina MiSeq Personal Sequencer	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-66	Ion Torrent PGM	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-67	Ion Torrent Proton	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-68	M.D. Anderson Reverse Phase Protein Array Core	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-69	Microsatellite Instability Analysis	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-70	nanoString	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-71	Nimblegen CGS	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-72	Nimblegen Gene Expression 12x135K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-73	Nimblegen Gene Expression 385K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-74	Nimblegen Gene Expression 4x72K	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-75	Nimblegen Human CGH 2.1M Whole-Genome v2.0D Array	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-76	Nimblegen Human CGH 3x720 Whole-Genome v3.0 Array	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-77	Nimblegen Human Methylation 2.1M Whole-Genome sets	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-78	Nimblegen Human Methylation 385K Whole-Genome sets	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-79	PacBio RS sequencing	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-80	PCR	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-81	PCR and capillary sequencing	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-82	qPCR	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-83	Roche 454 sequencing	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-84	Sequenom MassARRAY	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-85	SOLiD sequencing	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-86	Digital PCR	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-87	NextSeq 500	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+OSIRIS:O7-88	NovaSeq	OSIRIS		Enumerated	String	O7	OSIRIS:PlatformName	Technology	PlatformName	Technology_PlatformName
+		OSIRIS		nonEnumerated	String	O8	OSIRIS:PlatformAccession	Technology	PlatformAccession	Technology_PlatformAccession
+		OSIRIS		nonEnumerated	Date	O9	OSIRIS:DateOfExperiment	Technology	DateOfExperiment	Technology_DateOfExperiment
+OSIRIS:O10-0	Not applicable	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-1	Ion AmpliSeq Cancer Hotspot Panel v2	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-2	Ion AmpliSeq Colon and Lung Cancer Research Panel v2	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-3	Ion AmpliSeq Comprehensive Cancer Panel	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-4	Ion AmpliSeq Oncomine Comprehensive Assay	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-5	Ion AmpliSeq Oncomine Focus Assay	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-6	Ion AmpliSeq TP53 Research Panel	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-7	Lyric: Ion AmpliSeq Profiler	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-8	QIAGEN GeneRead DNAseq Targeted Panels V2	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-9	SAFIR02 Panel	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+OSIRIS:O10-10	Mosc3	OSIRIS		Enumerated	String	O10	OSIRIS:PanelName	Panel	Name	Panel_Name
+		OSIRIS		nonEnumerated	String	O11	OSIRIS:AnalyticPipelineCode	AnalysisProcess	AnalyticPipelineCode	AnalysisProcess_AnalyticPipelineCode
+		OSIRIS		nonEnumerated	Integer	O12	OSIRIS:AlgorithmicCellularity	OmicAnalysis	AlgorithmicCellularity	OmicAnalysis_AlgorithmicCellularity
+OSIRIS:O13-1	Haploid	OSIRIS		Enumerated	String	O13	OSIRIS:AlgorithmicPloïdy	OmicAnalysis	AlgorithmicPloidy	OmicAnalysis_AlgorithmicPloidy
+OSIRIS:O13-2	Diploid	OSIRIS		Enumerated	String	O13	OSIRIS:AlgorithmicPloïdy	OmicAnalysis	AlgorithmicPloidy	OmicAnalysis_AlgorithmicPloidy
+OSIRIS:O13-3	Triploid	OSIRIS		Enumerated	String	O13	OSIRIS:AlgorithmicPloïdy	OmicAnalysis	AlgorithmicPloidy	OmicAnalysis_AlgorithmicPloidy
+OSIRIS:O13-4	Tetraploid	OSIRIS		Enumerated	String	O13	OSIRIS:AlgorithmicPloïdy	OmicAnalysis	AlgorithmicPloidy	OmicAnalysis_AlgorithmicPloidy
+OSIRIS:O13-0	Not available	OSIRIS		Enumerated	String	O13	OSIRIS:AlgorithmicPloïdy	OmicAnalysis	AlgorithmicPloidy	OmicAnalysis_AlgorithmicPloidy
+		OSIRIS		nonEnumerated	Integer	O14	OSIRIS:NumberOfBreakPoints	OmicAnalysis	NumberOfBreakPoints	OmicAnalysis_NumberOfBreakPoints
+OSIRIS:O15-1	Gene expression	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-2	Protein expression	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-3	Fusion	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-4	Copy number variation	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-5	Genetic variant	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-6	Structural alteration	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-7	Transcription factor	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-8	Histone marks	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-9	Transcript isoform	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O15-10	Viral insertion site	OSIRIS		Enumerated	String	O15	OSIRIS:AlterationType	AlterationOnSample	AlterationType	AlterationOnSample_AlterationType
+OSIRIS:O16-1	Experimental	OSIRIS		Enumerated	String	O16	OSIRIS:ValidationType	Validation	Type	Validation_Type
+OSIRIS:O16-2	By biologist	OSIRIS		Enumerated	String	O16	OSIRIS:ValidationType	Validation	Type	Validation_Type
+OSIRIS:O16-3	In silico	OSIRIS		Enumerated	String	O16	OSIRIS:ValidationType	Validation	Type	Validation_Type
+		OSIRIS		nonEnumerated	String	O17	OSIRIS:ValidationMethod	Validation	Method	Validation_Method
+OSIRIS:O18-1	Not Validated	OSIRIS		Enumerated	String	O18	OSIRIS:ValidationStatus	Validation	Status	Validation_Status
+OSIRIS:O18-2	Validated	OSIRIS		Enumerated	String	O18	OSIRIS:ValidationStatus	Validation	Status	Validation_Status
+LOINC:LA21254-0	chr1	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21255-7	chr2	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21256-5	chr3	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21257-3	chr4	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21258-1	chr5	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21259-9	chr6	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21260-7	chr7	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21261-5	chr8	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21262-3	chr9	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21263-1	chr10	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21264-9	chr11	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21265-6	chr12	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21266-4	chr13	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21267-2	chr14	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21268-0	chr15	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21269-8	chr16	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21270-6	chr17	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21271-4	chr18	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21272-2	chr19	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21273-0	chr20	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21274-8	chr21	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21275-5	chr22	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21276-3	chrX	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+LOINC:LA21277-1	chrY	OSIRIS	http://r.details.loinc.org/AnswerList/LL2938-0.html	Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+OSIRIS:O19-1	MT	OSIRIS		Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+OSIRIS:O19-2	viral	OSIRIS		Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+OSIRIS:O19-3	bacterial	OSIRIS		Enumerated	String	O19	OSIRIS:Chromosome	Alteration	Chromosome	Alteration_Chromosome
+		FHIR (HL7)	http://hl7.org/fhir/extension-geneticsgenomicstart.html	nonEnumerated	Integer	O20	FHIR:extension-geneticsGenomicStart	Alteration	GenomicStart	Alteration_GenomicStart
+		FHIR (HL7)	http://hl7.org/fhir/extension-geneticsgenomicstop.html	nonEnumerated	Integer	O21	FHIR:extension-geneticsGenomicStop	Alteration	GenomicStop	Alteration_GenomicStop
+OSIRIS:O22-1	GRCh37	FHIR (HL7)	https://www.hl7.org/fhir/extension-geneticsgenomebuild.html	Enumerated	String	O22	FHIR:extension-geneticsGenomeBuild	Alteration	GenomeBuild	Alteration_GenomeBuild
+OSIRIS:O22-2	GRCh38	FHIR (HL7)	https://www.hl7.org/fhir/extension-geneticsgenomebuild.html	Enumerated	String	O22	FHIR:extension-geneticsGenomeBuild	Alteration	GenomeBuild	Alteration_GenomeBuild
+		UCSC	http://hgdownload.cse.ucsc.edu/goldenPath/hg19/database/cytoBand.txt.gz	nonEnumerated	String	O23	UCSC	Alteration	Cytoband	Alteration_Cytoband
+OSIRIS:O24-1	gene	OSIRIS		Enumerated	String	O24	OSIRIS:GenomeEntityType	GenomeEntity	Type	GenomeEntity_Type
+OSIRIS:O24-2	miRNA	OSIRIS		Enumerated	String	O24	OSIRIS:GenomeEntityType	GenomeEntity	Type	GenomeEntity_Type
+OSIRIS:O24-3	piRNA	OSIRIS		Enumerated	String	O24	OSIRIS:GenomeEntityType	GenomeEntity	Type	GenomeEntity_Type
+OSIRIS:O24-4	mRNA	OSIRIS		Enumerated	String	O24	OSIRIS:GenomeEntityType	GenomeEntity	Type	GenomeEntity_Type
+OSIRIS:O24-5	ncRNA	OSIRIS		Enumerated	String	O24	OSIRIS:GenomeEntityType	GenomeEntity	Type	GenomeEntity_Type
+OSIRIS:O24-6	ORF	OSIRIS		Enumerated	String	O24	OSIRIS:GenomeEntityType	GenomeEntity	Type	GenomeEntity_Type
+OSIRIS:O25-1	HGNC	OSIRIS		Enumerated	String	O25	OSIRIS:GenomeEntityDatabase	GenomeEntity	Database	GenomeEntity_Database
+OSIRIS:O25-2	miRDB	OSIRIS		Enumerated	String	O25	OSIRIS:GenomeEntityDatabase	GenomeEntity	Database	GenomeEntity_Database
+OSIRIS:O25-3	Entrez	OSIRIS		Enumerated	String	O25	OSIRIS:GenomeEntityDatabase	GenomeEntity	Database	GenomeEntity_Database
+OSIRIS:O25-4	Human lincRNA Catalog	OSIRIS		Enumerated	String	O25	OSIRIS:GenomeEntityDatabase	GenomeEntity	Database	GenomeEntity_Database
+		FHIR	http://hl7.org/fhir/2016May/extension-observation-geneticsgene.html	nonEnumerated	String	O26	FHIR:extension-observation-geneticsGene	GenomeEntity	Id	GenomeEntity_Id
+		LOINC	http://www.genenames.org/	nonEnumerated	String	O27	LOINC:48018-6 - HGNC Approved Symbol	GenomeEntity	Symbol	GenomeEntity_Symbol
+LOINC:LA26331-1	translocation	LOINC	http://r.details.loinc.org/LOINC/81289-1.html	Enumerated	String	O28	OSIRIS:FusionType	Fusion	Type	Fusion_Type
+OSIRIS:O28-1	readthrough	OSIRIS		Enumerated	String	O28	OSIRIS:FusionType	Fusion	Type	Fusion_Type
+OSIRIS:O94-1	+	OSIRIS		Enumerated	String	O94	OSIRIS:Strand	Annotation	Strand	Annotation_Strand
+OSIRIS:O94-2	-	OSIRIS		Enumerated	String	O94	OSIRIS:Strand	Annotation	Strand	Annotation_Strand
+		OSIRIS		nonEnumerated	String	O35	OSIRIS:FusionPoint5prime	Fusion	Point5prime	Fusion_Point5prime
+		OSIRIS		nonEnumerated	Integer	O40	OSIRIS:FusionPoint3prime	Fusion	Point3prime	Fusion_Point3prime
+		OSIRIS		nonEnumerated	Boolean	O41	OSIRIS:FusionInFrame	Fusion	InFrame	Fusion_InFrame
+OSIRIS:O42-1	ChimerDb	OSIRIS		Enumerated	String	O91	OSIRIS:FusionAnnotationReferentiel	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+OSIRIS:O42-2	Oncofuse	OSIRIS		Enumerated	String	O91	OSIRIS:FusionAnnotationReferentiel	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+OSIRIS:O42-3	Mittelman DB	OSIRIS		Enumerated	String	O91	OSIRIS:FusionAnnotationReferentiel	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+		OSIRIS		nonEnumerated	Integer	O44	OSIRIS:FusionNbSpanningPair	Fusion	NbSpanningPair	Fusion_NbSpanningPair
+		OSIRIS		nonEnumerated	Integer	O46	OSIRIS:FusionNbSplitReads	Fusion	NbSplitReads	Fusion_NbSplitReads
+		OSIRIS		nonEnumerated	Float	O47	OSIRIS:SegmentIntensity	CNV	SegmentIntensity	CNV_SegmentIntensity
+OSIRIS:O49-1	Amplification	OSIRIS		Enumerated	String	O49	OSIRIS:SegmentGenomicStatus	CNV	SegmentGenomicStatus	CNV_SegmentGenomicStatus
+OSIRIS:O49-2	Gain	OSIRIS		Enumerated	String	O49	OSIRIS:SegmentGenomicStatus	CNV	SegmentGenomicStatus	CNV_SegmentGenomicStatus
+OSIRIS:O49-3	Normal	OSIRIS		Enumerated	String	O49	OSIRIS:SegmentGenomicStatus	CNV	SegmentGenomicStatus	CNV_SegmentGenomicStatus
+OSIRIS:O49-4	Heterozygous deletion	OSIRIS		Enumerated	String	O49	OSIRIS:SegmentGenomicStatus	CNV	SegmentGenomicStatus	CNV_SegmentGenomicStatus
+OSIRIS:O49-5	Homozygous deletion	OSIRIS		Enumerated	String	O49	OSIRIS:SegmentGenomicStatus	CNV	SegmentGenomicStatus	CNV_SegmentGenomicStatus
+OSIRIS:O49-6	Copy neutral	OSIRIS		Enumerated	String	O49	OSIRIS:SegmentGenomicStatus	CNV	SegmentGenomicStatus	CNV_SegmentGenomicStatus
+OSIRIS:O49-7	Isodisomy	OSIRIS		Enumerated	String	O49	OSIRIS:SegmentGenomicStatus	CNV	SegmentGenomicStatus	CNV_SegmentGenomicStatus
+		OSIRIS		nonEnumerated	Integer	O50	OSIRIS:CopyNumber	CNV	CopyNumber	CNV_CopyNumber
+		OSIRIS		nonEnumerated	Boolean	O51	OSIRIS:LossOfHeterozygosity	CNV	LOH	CNV_LOH
+		FHIR	https://www.hl7.org/fhir/2016Jan/sequence-definitions.html#Sequence.referenceAllele	nonEnumerated	String	O53	FHIR:Sequence.referenceAllele	Variant	ReferenceAllele	Variant_ReferenceAllele
+		FHIR	https://www.hl7.org/fhir/2016Jan/sequence-definitions.html#Sequence.observedAllele	nonEnumerated	String	O54	FHIR:Sequence.observedAllele	Variant	AlternativeAllele	Variant_AlternativeAllele
+LOINC:LA6692-3	Deletion	LOINC	http://r.details.loinc.org/LOINC/48019-4.html	Enumerated	String	O55	LOINC:48019-4	Variant	DNASequenceVariationType	Variant_DNASequenceVariationType
+LOINC:LA6686-5	Duplication	LOINC	http://r.details.loinc.org/LOINC/48019-4.html	Enumerated	String	O55	LOINC:48019-4	Variant	DNASequenceVariationType	Variant_DNASequenceVariationType
+LOINC:LA6687-3	Insertion	LOINC	http://r.details.loinc.org/LOINC/48019-4.html	Enumerated	String	O55	LOINC:48019-4	Variant	DNASequenceVariationType	Variant_DNASequenceVariationType
+LOINC:LA6688-1	Insertion/Deletion (indel)	LOINC	http://r.details.loinc.org/LOINC/48019-4.html	Enumerated	String	O55	LOINC:48019-4	Variant	DNASequenceVariationType	Variant_DNASequenceVariationType
+LOINC:LA6689-9	Inversion	LOINC	http://r.details.loinc.org/LOINC/48019-4.html	Enumerated	String	O55	LOINC:48019-4	Variant	DNASequenceVariationType	Variant_DNASequenceVariationType
+LOINC:LA6690-7	Substitution	LOINC	http://r.details.loinc.org/LOINC/48019-4.html	Enumerated	String	O55	LOINC:48019-4	Variant	DNASequenceVariationType	Variant_DNASequenceVariationType
+OSIRIS:O55-1	Virus insertion site	OSIRIS		Enumerated	String	O55	LOINC:48019-4	Variant	DNASequenceVariationType	Variant_DNASequenceVariationType
+OSIRIS:O55-2	Delins	OSIRIS		Enumerated	String	O55	LOINC:48019-4	Variant	DNASequenceVariationType	Variant_DNASequenceVariationType
+		OSIRIS		nonEnumerated	String	O58	OSIRIS:PfamDomain	Annotation	PfamDomain	Annotation_PfamDomain
+		OSIRIS		nonEnumerated	String	O59	OSIRIS:PfamId	Annotation	PfamId	Annotation_PfamId
+OSIRIS:O63-1	SIFT	OSIRIS		Enumerated	String	O63	OSIRIS:MutationPredictionAlgorithm	Annotation	MutationPredictionAlgorithm	Annotation_MutationPredictionAlgorithm
+OSIRIS:O63-2	POLYPHEN2_HDIV	OSIRIS		Enumerated	String	O63	OSIRIS:MutationPredictionAlgorithm	Annotation	MutationPredictionAlgorithm	Annotation_MutationPredictionAlgorithm
+		OSIRIS		nonEnumerated	String	O64	OSIRIS:MutationPredictionValue	Annotation	MutationPredictionValue	Annotation_MutationPredictionValue
+		OSIRIS		nonEnumerated	Float	O65	OSIRIS:MutationPredictionScore	Annotation	MutationPredictionScore	Annotation_MutationPredictionScore
+		FHIR	http://hl7.org/fhir/2016May/extension-observation-geneticsdnaregionname.html	nonEnumerated	String	O66	FHIR:extension-observation-geneticsDNARegionName	Annotation	DNARegionName	Annotation_DNARegionName
+				Enumerated	String	O90		Annotation	ReferenceType	Annotation_ReferenceType
+OSIRIS:O91-1	RefSeq	OSIRIS		Enumerated	String	O91	OSIRIS:ProteinReferenceDatabase	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+OSIRIS:O91-2	Ensembl	OSIRIS		Enumerated	String	O91	OSIRIS:TranscriptReferenceDatabase	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+OSIRIS:O91-3	SwissProt	OSIRIS		Enumerated	String	O91	OSIRIS:ProteinReferenceDatabase	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+OSIRIS:O91-4	UniProt	OSIRIS		Enumerated	String	O91	OSIRIS:ProteinReferenceDatabase	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+OSIRIS:O96-1	Cosmic	OSIRIS		Enumerated	String	O96	OSIRIS:VariantReferenceDatabase	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+OSIRIS:O96-2	dbSNP	OSIRIS		Enumerated	String	O96	OSIRIS:VariantReferenceDatabase	Annotation	ReferenceDatabase	Annotation_ReferenceDatabase
+				nonEnumerated	String	O92		Annotation	ReferenceValue	Annotation_ReferenceValue
+		FHIR	http://hl7.org/fhir/2016May/extension-observation-geneticsdnasequencevariation.html	nonEnumerated	String	O71	FHIR:extension-observation-geneticsDNASequenceVariation	Annotation	DNASequenceVariation	Annotation_DNASequenceVariation
+		FHIR	http://hl7.org/fhir/2016May/extension-observation-geneticsaminoacidchange.html	nonEnumerated	String	O72	FHIR:extension-observation-geneticsAminoAcidChange	Annotation	AminoAcidChange	Annotation_AminoAcidChange
+		OSIRIS		nonEnumerated	String	O73	OSIRIS:GenomicSequenceVariation	Annotation	GenomicSequenceVariation	Annotation_GenomicSequenceVariation
+		OSIRIS		nonEnumerated	String	O74	OSIRIS:RNASequenceVariation	Annotation	RNASequenceVariation	Annotation_RNASequenceVariation
+LOINC:LA6692-3	Deletion	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA6686-5	Duplication	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA6694-9	Frameshift	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA6695-6	Initiating Methionine	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA6687-3	Insertion	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA9659-9	Insertion and Deletion	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA6698-0	Missense	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA6699-8	Nonsense	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA6700-4	Silent	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+LOINC:LA6701-2	Stop Codon Mutation	LOINC	http://r.details.loinc.org/LOINC/48006-1.html	Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+OSIRIS:O75-1	In frame	OSIRIS		Enumerated	String	O75	OSIRIS:AminoAcidChangeType	Annotation	AminoAcidChangeType	Annotation_AminoAcidChangeType
+		OSIRIS		nonEnumerated	Integer	O76	OSIRIS:PositionCoverage	VariantInSample	PositionReadDepth	VariantInSample_PositionReadDepth
+		OSIRIS		nonEnumerated	Integer	O77	OSIRIS:VariantCoverage	VariantInSample	VariantReadDepth	VariantInSample_VariantReadDepth
+		OSIRIS		nonEnumerated	Boolean	O78	OSIRIS:StrandBias	VariantInSample	StrandBias	VariantInSample_StrandBias
+LOINC:LA6683-2	Germline	LOINC	http://s.details.loinc.org/LOINC/48002-0.html	Enumerated	String	O79	LOINC:LL378-1	VariantInSample	GenomicSourceClass	VariantInSample_GenomicSourceClass
+LOINC:LA6684-0	Somatic	LOINC	http://s.details.loinc.org/LOINC/48002-0.html	Enumerated	String	O79	LOINC:LL378-1	VariantInSample	GenomicSourceClass	VariantInSample_GenomicSourceClass
+LOINC:LA10429-1	Prenatal	LOINC	http://s.details.loinc.org/LOINC/48002-0.html	Enumerated	String	O79	LOINC:LL378-1	VariantInSample	GenomicSourceClass	VariantInSample_GenomicSourceClass
+LOINC:LA18197-6	Unknown genomic origin	LOINC	http://s.details.loinc.org/LOINC/48002-0.html	Enumerated	String	O79	LOINC:LL378-1	VariantInSample	GenomicSourceClass	VariantInSample_GenomicSourceClass
+LOINC:LA6703-8	Heteroplasmic	LOINC	http://s.details.loinc.org/LOINC/53034-5.html	Enumerated	String	O80	LOINC:LL381-5	VariantInSample	AllelicState	VariantInSample_AllelicState
+LOINC:LA6704-6	Homoplasmic	LOINC	http://s.details.loinc.org/LOINC/53034-5.html	Enumerated	String	O80	LOINC:LL381-5	VariantInSample	AllelicState	VariantInSample_AllelicState
+LOINC:LA6705-3	Homozygous	LOINC	http://s.details.loinc.org/LOINC/53034-5.html	Enumerated	String	O80	LOINC:LL381-5	VariantInSample	AllelicState	VariantInSample_AllelicState
+LOINC:LA6706-1	Heterozygous	LOINC	http://s.details.loinc.org/LOINC/53034-5.html	Enumerated	String	O80	LOINC:LL381-5	VariantInSample	AllelicState	VariantInSample_AllelicState
+LOINC:LA6707-9	Hemizygous	LOINC	http://s.details.loinc.org/LOINC/53034-5.html	Enumerated	String	O80	LOINC:LL381-5	VariantInSample	AllelicState	VariantInSample_AllelicState
+OSIRIS:O81-1	Pathogenic	ACMG	https://www.acmg.net/docs/Standards_Guidelines_for_the_Interpretation_of_Sequence_Variants.pdf	Enumerated	String	O81	OSIRIS:AlterationOnSample_Pathogenicity	AlterationOnSample	Pathogenicity	AlterationOnSample_Pathogenicity
+OSIRIS:O81-2	Likely pathogenic	ACMG	https://www.acmg.net/docs/Standards_Guidelines_for_the_Interpretation_of_Sequence_Variants.pdf	Enumerated	String	O81	OSIRIS:AlterationOnSample_Pathogenicity	AlterationOnSample	Pathogenicity	AlterationOnSample_Pathogenicity
+OSIRIS:O81-3	Uncertain significance	ACMG	https://www.acmg.net/docs/Standards_Guidelines_for_the_Interpretation_of_Sequence_Variants.pdf	Enumerated	String	O81	OSIRIS:AlterationOnSample_Pathogenicity	AlterationOnSample	Pathogenicity	AlterationOnSample_Pathogenicity
+OSIRIS:O81-4	Likely benign	ACMG	https://www.acmg.net/docs/Standards_Guidelines_for_the_Interpretation_of_Sequence_Variants.pdf	Enumerated	String	O81	OSIRIS:AlterationOnSample_Pathogenicity	AlterationOnSample	Pathogenicity	AlterationOnSample_Pathogenicity
+OSIRIS:O81-5	Benign	ACMG	https://www.acmg.net/docs/Standards_Guidelines_for_the_Interpretation_of_Sequence_Variants.pdf	Enumerated	String	O81	OSIRIS:AlterationOnSample_Pathogenicity	AlterationOnSample	Pathogenicity	AlterationOnSample_Pathogenicity
+OSIRIS:O82-1	Actionable	OSIRIS		Enumerated	String	O82	OBI	AlterationOnSample	Actionability	AlterationOnSample_Actionability
+OSIRIS:O82-2	Non actionable	OSIRIS		Enumerated	String	O82	OBI	AlterationOnSample	Actionability	AlterationOnSample_Actionability
+		OSIRIS		nonEnumerated	Boolean	O83		AlterationOnSample	ProposedForOrientation	AlterationOnSample_ProposedForOrientation
+OSIRIS:O84-1	RawExpression	OSIRIS		Enumerated	String	O84	OSIRIS:ExpressionDataType	GeneExpression	DataType	GeneExpression_DataType
+OSIRIS:O84-2	NormalizedExpression	OSIRIS		Enumerated	String	O84	OSIRIS:ExpressionDataType	GeneExpression	DataType	GeneExpression_DataType
+		OSIRIS		nonEnumerated	Float	O85	OSIRIS:ExpressionValue	GeneExpression	Value	GeneExpression_Value
+OSIRIS:O93-1	5prime	OSIRIS		Enumerated	String	O93	OSIRIS:Annotation_FusionPrimeEnd	Annotation	FusionPrimeEnd	Annotation_FusionPrimeEnd
+OSIRIS:O93-2	3prime	OSIRIS		Enumerated	String	O93	OSIRIS:Annotation_FusionPrimeEnd	Annotation	FusionPrimeEnd	Annotation_FusionPrimeEnd
+		LOINC	http://www.genenames.org/	nonEnumerated	String	O95	LOINC:48018-6	Annotation	Symbol	Annotation_Symbol
+ICD3:C00	LIP	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.0	External upper lip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.1	External lower lip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.2	External lip, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.3	Mucosa of upper lip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.4	Mucosa of lower lip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.5	Mucosa of lip, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.6	Commissure of lip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.8	Overlapping lesion of lip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C00.9	Lip, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C01	BASE OF TONGUE	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C01.9	Base of tongue, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C02	OTHER AND UNSPECIFIED PARTS OF TONGUE	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C02.0	Dorsal surface of tongue, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C02.1	Border of tongue	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C02.2	Ventral surface of tongue, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C02.3	Anterior 2/3 of tongue, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C02.4	Lingual tonsil	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C02.8	Overlapping lesion of tongue	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C02.9	Tongue, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C03	GUM	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C03.0	Upper gum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C03.1	Lower gum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C03.9	Gum, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C04	FLOOR OF MOUTH	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C04.0	Anterior floor of mouth	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C04.1	Lateral floor of mouth	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C04.8	Overlapping lesion of floor of mouth	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C04.9	Floor of mouth, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C05	PALATE	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C05.0	Hard palate	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C05.1	Soft palate, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C05.2	Uvula	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C05.8	Overlapping lesion of palate	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C05.9	Palate, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C06	OTHER AND UNSPECIFIED PARTS OF MOUTH	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C06.0	Cheek mucosa	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C06.1	Vestibule of mouth	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C06.2	Retromolar area	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C06.8	Overlapping lesion of other and unspecified parts of mouth	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C06.9	Mouth, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C07	PAROTID GLAND	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C07.9	Parotid gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C08	OTHER AND UNSPECIFIED MAJOR SALIVARY GLANDS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C08.0	Submandibular gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C08.1	Sublingual gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C08.8	Overlapping lesion of major salivary glands	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C08.9	Major salivary gland, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C09	TONSIL	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C09.0	Tonsillar fossa	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C09.1	Tonsillar pillar	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C09.8	Overlapping lesion of tonsil	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C09.9	Tonsil, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C10	OROPHARYNX	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C10.0	Vallecula	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C10.1	Anterior surface of epiglottis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C10.2	Lateral wall of oropharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C10.3	Posterior wall of oropharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C10.4	Branchial cleft	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C10.8	Overlapping lesion of oropharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C10.9	Oropharynx, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C11	NASOPHARYNX	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C11.0	Superior wall of nasopharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C11.1	Posterior wall of nasopharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C11.2	Lateral wall of nasopharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C11.3	Anterior wall of nasopharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C11.8	Overlapping lesion of nasopharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C11.9	Nasopharynx, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C12	PYRIFORM SINUS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C12.9	Pyriform sinus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C13	HYPOPHARYNX	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C13.0	Postcricoid region	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C13.1	Hypopharyngeal aspect of aryepiglottic fold	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C13.2	Posterior wall of hypopharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C13.8	Overlapping lesion of hypopharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C13.9	Hypopharynx, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C14	OTHER AND ILL-DEFINED SITES IN LIP, ORAL CAVITY AND PHARYNX	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C14.0	Pharynx, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C14.2	Waldeyer ring	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C14.8	Overlapping lesion of lip, oral cavity and pharynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15	ESOPHAGUS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15.0	Cervical esophagus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15.1	Thoracic esophagus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15.2	Abdominal esophagus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15.3	Upper third of esophagus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15.4	Middle third of esophagus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15.5	Lower third of esophagus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15.8	Overlapping lesion of esophagus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C15.9	Esophagus, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16	STOMACH	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.0	Cardia, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.1	Fundus of stomach	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.2	Body of stomach	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.3	Gastric antrum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.4	Pylorus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.5	Lesser curvature of stomach, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.6	Greater curvature of stomach, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.8	Overlapping lesion of stomach	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C16.9	Stomach, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C17	SMALL INTESTINE	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C17.0	Duodenum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C17.1	Jejunum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C17.2	Ileum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C17.3	Meckel diverticulum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C17.8	Overlapping lesion of smallintestine	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C17.9	Small intestine, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18	COLON	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.0	Cecum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.1	Appendix	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.2	Ascending colon	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.3	Hepatic flexure of colon	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.4	Transverse colon	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.5	Splenic flexure of colon	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.6	Descending colon	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.7	Sigmoid colon	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.8	Overlapping lesion of colon	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C18.9	Colon, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C19	RECTOSIGMOID JUNCTION	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C19.9	Rectosigmoid junction	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C20	RECTUM	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C20.9	Rectum, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C21	ANUS AND ANAL CANAL	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C21.0	Anus, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C21.1	Anal canal	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C21.2	Cloacogenic zone	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C21.8	Overlapping lesion of rectum, anus and anal canal	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C22	LIVER AND INTRAHEPATIC BILE DUCTS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C22.0	Liver	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C22.1	Intrahepatic bile duct	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C23	GALLBLADDER	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C23.9	Gallbladder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C24	OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C24.0	Extrahepatic bile duct	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C24.1	Ampulla of Vater	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C24.8	Overlapping lesion of biliary tract Note:	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C24.9	Biliary tract, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25	PANCREAS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25.0	Head of pancreas	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25.1	Body of pancreas	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25.2	Tail of pancreas	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25.3	Pancreatic duct	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25.4	Islets of Langerhans	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25.7	Other specified parts of pancreas	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25.8	Overlapping lesion of pancreas	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C25.9	Pancreas, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C26	OTHER AND ILL-DEFINED DIGESTIVE ORGANS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C26.0	Intestinal tract, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C26.8	Overlapping lesion of digestive system	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C26.9	Gastrointestinal tract, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C30	NASAL CAVITY AND MIDDLE EAR	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C30.0	Nasal cavity	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C30.1	Middle ear	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C31	ACCESSORY SINUSES	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C31.0	Maxillary sinus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C31.1	Ethmoid sinus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C31.2	Frontal sinus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C31.3	Sphenoid sinus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C31.8	Overlapping lesion of accessory sinuses	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C31.9	Accessory sinus, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C32	LARYNX	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C32.0	Glottis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C32.1	Supraglottis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C32.2	Subglottis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C32.3	Laryngeal cartilage	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C32.8	Overlapping lesion of larynx	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C32.9	Larynx, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C33	TRACHEA	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C33.9	Trachea	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C34	BRONCHUS AND LUNG	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C34.0	Main bronchus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C34.1	Upper lobe, lung	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C34.2	Middle lobe, lung	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C34.3	Lower lobe, lung	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C34.8	Overlapping lesion of lung	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C34.9	Lung, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C37	THYMUS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C37.9	Thymus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C38	HEART, MEDIASTINUM, AND PLEURA	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C38.0	Heart	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C38.1	Anterior mediastinum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C38.2	Posterior mediastinum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C38.3	Mediastinum, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C38.4	Pleura, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C38.8	Overlapping lesion of heart, mediastinum and pleura	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C39	OTHER AND ILL-DEFINED SITES WITHIN RESPIRATORY SYSTEM AND INTRATHORACIC ORGANS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C39.0	Upper respiratory tract, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C39.8	Overlapping lesion of respiratory system and intrathoracic organs	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C39.9	Ill-defined sites within respiratory system	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C40	BONES, JOINTS AND ARTICULAR CARTILAGE OF LIMBS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C40.0	Long bones of upper limb, scapula and associated joints	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C40.1	Short bones of upper limb and associated joints	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C40.2	Long bones of lower limb and associated joints	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C40.3	Short bones of lower limb and associated joints	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C40.8	Overlapping lesion of bones, joints and articular cartilage of limbs	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C40.9	Bone of limb, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C41	BONES, JOINTS AND ARTICULAR CARTILAGE OF OTHER AND UNSPECIFIED SITES	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C41.0	Bones of skull and face and associated joints	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C41.1	Mandible	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C41.2	Vertebral column	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C41.3	Rib, sternum, clavicle and associated joints	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C41.4	Pelvic bones, sacrum, coccyx and associated joints	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C41.8	Overlapping lesion of bones, joints and articular cartilage	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C41.9	Bone, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C42	HEMATOPOIETIC AND RETICULOENDOTHELIAL SYSTEMS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C42.0	Blood	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C42.1	Bone marrow	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C42.2	Spleen	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C42.3	Reticuloendothelial system,NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C42.4	Hematopoietic system, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44	SKIN	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.0	Skin of lip, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.1	Eyelid	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.2	External ear	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.3	Skin of other and unspecified parts of face	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.4	Skin of scalp and neck	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.5	Skin of trunk	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.6	Skin of upper limb and shoulder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.7	Skin of lower limb and hip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.8	Overlapping lesion of skin	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C44.9	Skin, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47	PERIPHERAL NERVES AND AUTONOMIC NERVOUS SYSTEM	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.0	Peripheral nerves and autonomic nervous system of head, face, and neck	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.1	Peripheral nerves and autonomic nervous system of upper limb and shoulder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.2	Peripheral nerves and autonomic nervous system of lower limband hip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.3	Peripheral nerves and autonomic nervous system of thorax	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.4	Peripheral nerves and autonomic nervous system of abdomen	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.5	Peripheral nerves and autonomic nervous system of pelvis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.6	Peripheral nerves and autonomic nervous system of trunk, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.8	Overlapping lesion of peripheral nerves and autonomic nervous system	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C47.9	Autonomic nervous system, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C48	RETROPERITONEUM AND PERITONEUM	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C48.0	Retroperitoneum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C48.1	Specified parts of peritoneum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C48.2	Peritoneum, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C48.8	Overlapping lesion of retroperitoneum and peritoneum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49	CONNECTIVE, SUBCUTANEOUS AND OTHER SOFT TISSUES	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.0	Connective, subcutaneous and other soft tissues of head, face, and neck	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.1	Connective, subcutaneous and other soft tissues of upper limb and shoulder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.2	Connective, subcutaneous and other soft tissues of lower limb and hip	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.3	Connective, subcutaneous and other soft tissues of thorax	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.4	Connective, subcutaneous and other soft tissues of abdomen	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.5	Connective, subcutaneous and other soft tissues of pelvis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.6	Connective, subcutaneous and other soft tissues of trunk NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.8	Overlapping lesion of connective, subcutaneous and other soft tissues	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C49.9	Connective, subcutaneous and other soft tissues, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50	BREAST	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.0	Nipple	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.1	Central portion of breast	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.2	Upper-inner quadrant of breast	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.3	Lower-inner quadrant of breast	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.4	Upper-outer quadrant of breast	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.5	Lower-outer quadrant of breast	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.6	Axillary tail of breast	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.8	Overlapping lesion of breast	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C50.9	Breast, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C51	VULVA	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C51.0	Labium majus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C51.1	Labium minus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C51.2	Clitoris	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C51.8	Overlapping lesion of vulva	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C51.9	Vulva, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C52	VAGINA	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C52.9	Vagina, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C53	CERVIX UTERI	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C53.0	Endocervix	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C53.1	Exocervix	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C53.8	Overlapping lesion of cervix uteri	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C53.9	Cervix uteri	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C54	CORPUS UTERI	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C54.0	Isthmus uteri	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C54.1	Endometrium	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C54.2	Myometrium	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C54.3	Fundus uteri	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C54.8	Overlapping lesion of corpus uteri	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C54.9	Corpus uteri	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C55	UTERUS, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C55.9	Uterus, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C56	OVARY	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C56.9	Ovary	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57	OTHER AND UNSPECIFIED FEMALE GENITAL ORGANS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57.0	Fallopian tube	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57.1	Broad ligament	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57.2	Round ligament	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57.3	Parametrium	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57.4	Uterine adnexa	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57.7	Other specified parts of female genital organs	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57.8	Overlapping lesion of female genital organs	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C57.9	Female genital tract, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C58	PLACENTA	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C58.9	Placenta	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C60	PENIS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C60.0	Prepuce	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C60.1	Glans penis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C60.2	Body of penis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C60.8	Overlapping lesion of penis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C60.9	Penis, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C61	PROSTATE GLAND	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C61.9	Prostate gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C62	TESTIS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C62.0	Undescended testis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C62.1	Descended testis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C62.9	Testis, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C63	OTHER AND UNSPECIFIED MALE GENITAL ORGANS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C63.0	Epididymis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C63.1	Spermatic cord	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C63.2	Scrotum, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C63.7	Other specified parts of male genital organs	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C63.8	Overlapping lesion of male genital organs Note:	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C63.9	Male genital organs, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C64	KIDNEY	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C64.9	Kidney, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C65	RENAL PELVIS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C65.9	Renal pelvis	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C66	URETER	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C66.9	Ureter	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67	BLADDER	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.0	Trigone of bladder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.1	Dome of bladder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.2	Lateral wall of bladder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.3	Anterior wall of bladder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.4	Posterior wall of bladder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.5	Bladder neck	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.6	Ureteric orifice	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.7	Urachus	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.8	Overlapping lesion of bladder	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C67.9	Bladder, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C68	OTHER AND UNSPECIFIED URINARY ORGANS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C68.0	Urethra	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C68.1	Paraurethral gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C68.8	Overlapping lesion of urinary organs	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C68.9	Urinary system, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69	EYE AND ADNEXA	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.0	Conjunctiva	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.1	Cornea, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.2	Retina	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.3	Choroid	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.4	Ciliary body	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.5	Lacrimal gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.6	Orbit, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.8	Overlapping lesion of eye and adnexa	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C69.9	Eye, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C70	MENINGES	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C70.0	Cerebral meninges	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C70.1	Spinal meninges	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C70.9	Meninges, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71	BRAIN	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.0	Cerebrum	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.1	Frontal lobe	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.2	Temporal lobe	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.3	Parietal lobe	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.4	Occipital lobe	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.5	Ventricle, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.6	Cerebellum, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.7	Brain stem	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.8	Overlapping lesion of brain	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C71.9	Brain, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72	SPINAL CORD, CRANIAL NERVES, AND OTHER PARTS OF CENTRAL NERVOUS SYSTEM	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72.0	Spinal cord	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72.1	Cauda equina	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72.2	Olfactory nerve	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72.3	Optic nerve	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72.4	Acoustic nerve	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72.5	Cranial nerve, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72.8	Overlapping lesion of brain and central nervous system	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C72.9	Nervous system, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C73	THYROID GLAND	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C73.9	Thyroid gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C74	ADRENAL GLAND	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C74.0	Cortex of adrenal gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C74.1	Medulla of adrenal gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C74.9	Adrenal gland, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75	OTHER ENDOCRINE GLANDS AND RELATED STRUCTURES	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75.0	Parathyroid gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75.1	Pituitary gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75.2	Craniopharyngeal duct	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75.3	Pineal gland	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75.4	Carotid body	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75.5	Aortic body and other paraganglia	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75.8	Overlapping lesion of endocrine glands and related structures	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C75.9	Endocrine gland, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76	OTHER AND ILL-DEFINED SITES	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76.0	Head, face or neck, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76.1	Thorax, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76.2	Abdomen, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76.3	Pelvis, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76.4	Upper limb, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76.5	Lower limb, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76.7	Other ill-defined sites	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C76.8	Overlapping lesion of ill-defined sites	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77	LYMPH NODES	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77.0	Lymph nodes of head, face and neck	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77.1	Intrathoracic lymph nodes	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77.2	Intra-abdominal lymph nodes	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77.3	Lymph nodes of axilla or arm	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77.4	Lymph nodes of inguinal region or leg	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77.5	Pelvic lymph nodes	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77.8	Lymph nodes of multiple regions	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C77.9	Lymph node, NOS	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C80	UNKNOWN PRIMARY SITE	ICD3		Enumerated	String		ICD3:topography			
+ICD3:C80.9	Unknown primary site	ICD3		Enumerated	String		ICD3:topography			
+ICD3:8000/0	Neoplasm, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8000/1	Neoplasm, uncertain whether benign or malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8000/3	Neoplasm, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8000/6	Neoplasm, metastatic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8000/9	Neoplasm, malignant, uncertain whether primary or metastatic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8001/0	Tumor cells, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8001/1	Tumor cells, uncertain whether benign or malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8001/3	Tumor cells, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8002/3	Malignant tumor, small cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8003/3	Malignant tumor, giant cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8004/3	Malignant tumor, spindle cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8005/0	Clear cell tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8005/3	Malignant tumor, clear cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8010/0	Epithelial tumor, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8010/2	Carcinoma in situ, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8010/3	Carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8010/6	Carcinoma, metastatic, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8010/9	Carcinomatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8011/0	Epithelioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8011/3	Epithelioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8012/3	Large cell carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8013/3	Large cell neuroendocrine carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8014/3	Large cell carcinoma with rhabdoid phenotype	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8015/3	Glassy cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8020/3	Carcinoma, undifferentiated, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8021/3	Carcinoma, anaplastic, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8022/3	Pleomorphic carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8030/3	Giant cell and spindle cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8031/3	Giant cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8032/3	Spindle cell carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8033/3	Pseudosarcomatous carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8034/3	Polygonal cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8035/3	Carcinoma with osteoclast-like giant cells	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8040/0	Tumorlet, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8040/1	Tumorlet, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8041/3	Small cell carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8042/3	Oat cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8043/3	Small cell carcinoma, fusiform cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8044/3	Small cell carcinoma, intermediate cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8045/3	Combined small cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8046/3	Non-small cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8050/0	Papilloma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8050/2	Papillary carcinoma in situ	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8050/3	Papillary carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8051/0	Verrucous papilloma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8051/3	Verrucous carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8052/0	Squamous cell papilloma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8052/2	Papillary squamous cell carcinoma,  non-invasive	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8052/3	Papillary squamous cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8053/0	Squamous cell papilloma, inverted	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8060/0	Squamous papillomatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8070/2	Squamous cell carcinoma in situ, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8070/3	Squamous cell carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8070/6	Squamous cell carcinoma, metastatic, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8071/3	Squamous cell carcinoma, keratinizing, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8072/3	Squamous cell carcinoma, large cell, nonkeratinizing, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8073/3	Squamous cell carcinoma, small cell, nonkeratinizing	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8074/3	Squamous cell carcinoma, spindle cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8075/3	Squamous cell carcinoma, adenoid	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8076/2	Squamous cell carcinoma in situ with questionable stromal invasion	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8076/3	Squamous cell carcinoma, microinvasive	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8077/2	Squamous intraepithelial neoplasia, grade III	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8078/3	Squamous cell carcinoma with horn formation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8080/2	Queyrat erythroplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8081/2	Bowen disease	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8082/3	Lymphoepithelial carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8083/3	Basaloid squamous cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8084/3	Squamous cell carcinoma, clear cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8090/1	Basal cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8090/3	Basal cell carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8091/3	Multifocal superficial basal cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8092/3	Infiltrating basal cell carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8093/3	Basal cell carcinoma, fibroepithelial	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8094/3	Basosquamous carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8095/3	Metatypical carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8096/0	Intraepidermal epithelioma of Jadassohn	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8097/3	Basal cell carcinoma, nodular	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8098/3	Adenoid basal carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8100/0	Trichoepithelioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8101/0	Trichofolliculoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8102/0	Trichilemmoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8102/3	Trichilemmocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8103/0	Pilar tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8110/0	Pilomatrixoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8110/3	Pilomatrix carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8120/0	Transitional cell papilloma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8120/1	Urothelial papilloma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8120/2	Transitional cell carcinoma in situ	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8120/3	Transitional cell carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8121/0	Schneiderian papilloma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8121/1	Transitional cell papilloma, inverted, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8121/3	Schneiderian carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8122/3	Transitional cell carcinoma, spindle cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8123/3	Basaloid carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8124/3	Cloacogenic carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8130/1	Papillary transitional cell neoplasm of low malignant potential	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8130/2	Papillary transitional cell carcinoma,  non-invasive	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8130/3	Papillary transitional cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8131/3	Transitional cell carcinoma, micropapillary	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8140/0	Adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8140/1	Atypical adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8140/2	Adenocarcinoma in situ, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8140/3	Adenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8140/6	Adenocarcinoma, metastatic, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8141/3	Scirrhous adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8142/3	Linitis plastica	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8143/3	Superficial spreading adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8144/3	Adenocarcinoma, intestinal type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8145/3	Carcinoma, diffuse type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8146/0	Monomorphic adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8147/0	Basal cell adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8147/3	Basal cell adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8148/2	Glandular intraepithelial neoplasia, grade III	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8149/0	Canalicular adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8150/0	Islet cell adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8150/1	Islet cell tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8150/3	Islet cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8151/0	Insulinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8151/3	Insulinoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8152/1	Glucagonoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8152/3	Glucagonoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8153/1	Gastrinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8153/3	Gastrinoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8154/3	Mixed islet cell and exocrine adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8155/1	Vipoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8155/3	Vipoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8156/1	Somatostatinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8156/3	Somatostatinoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8157/1	Enteroglucagonoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8157/3	Enteroglucagonoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8160/0	Bile duct adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8160/3	Cholangiocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8161/0	Bile duct cystadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8161/3	Bile duct cystadenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8162/3	Klatskin tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8170/0	Liver cell adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8170/3	Hepatocellular carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8171/3	Hepatocellular carcinoma, fibrolamellar	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8172/3	Hepatocellular carcinoma, scirrhous	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8173/3	Hepatocellular carcinoma, spindle cell variant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8174/3	Hepatocellular carcinoma, clear cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8175/3	Hepatocellular carcinoma, pleomorphic type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8180/3	Combined hepatocellular carcinoma and cholangiocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8190/0	Trabecular adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8190/3	Trabecular adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8191/0	Embryonal adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8200/0	Eccrine dermal cylindroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8200/3	Adenoid cystic carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8201/2	Cribriform carcinoma in situ	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8201/3	Cribriform carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8202/0	Microcystic adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8204/0	Lactating adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8210/0	Adenomatous polyp, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8210/2	Adenocarcinoma in situ in adenomatous polyp	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8210/3	Adenocarcinoma in adenomatous polyp	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8211/0	Tubular adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8211/3	Tubular adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8212/0	Flat adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8213/0	Serrated adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8214/3	Parietal cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8215/3	Adenocarcinoma of anal glands	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8220/0	Adenomatous polyposis coli	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8220/3	Adenocarcinoma in adenomatous polyposis coli	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8221/0	Multiple adenomatous polyps	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8221/3	Adenocarcinoma in multiple adenomatous polyps	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8230/2	Ductal carcinoma in situ, solid type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8230/3	Solid carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8231/3	Carcinoma simplex	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8240/1	Carcinoid tumor of uncertain malignant potential	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8240/3	Carcinoid tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8241/3	Enterochromaffin cell carcinoid	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8242/1	Enterochromaffin-like cell carcinoid, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8242/3	Enterochromaffin-like cell tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8243/3	Goblet cell carcinoid	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8244/3	Composite carcinoid	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8245/1	Tubular carcinoid	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8245/3	Adenocarcinoid tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8246/3	Neuroendocrine carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8247/3	Merkel cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8248/1	Apudoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8249/3	Atypical carcinoid tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8250/1	Pulmonary adenomatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8250/3	Bronchiolo-alveolar adenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8251/0	Alveolar adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8251/3	Alveolar adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8252/3	Bronchiolo-alveolar carcinoma, non- mucinous	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8253/3	Bronchiolo-alveolar carcinoma, mucinous	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8254/3	Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8255/3	Adenocarcinoma with mixed subtypes	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8260/0	Papillary adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8260/3	Papillary adenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8261/0	Villous adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8261/2	Adenocarcinoma in situ in villous adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8261/3	Adenocarcinoma in villous adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8262/3	Villous adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8263/0	Tubulovillous adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8263/2	Adenocarcinoma in situ in tubulovillous adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8263/3	Adenocarcinoma in tubulovillous adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8264/0	Papillomatosis, glandular	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8270/0	Chromophobe adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8270/3	Chromophobe carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8271/0	Prolactinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8272/0	Pituitary adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8272/3	Pituitary carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8280/0	Acidophil adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8280/3	Acidophil carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8281/0	Mixed acidophil-basophil adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8281/3	Mixed acidophil-basophil carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8290/0	Oxyphilic adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8290/3	Oxyphilic adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8300/0	Basophil adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8300/3	Basophil carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8310/0	Clear cell adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8310/3	Clear cell adenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8311/1	Hypernephroid tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8312/3	Renal cell carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8313/0	Clear cell adenofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8313/1	Clear cell adenofibroma of borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8313/3	Clear cell adenocarcinofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8314/3	Lipid-rich carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8315/3	Glycogen-rich carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8316/3	Cyst-associated renal cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8317/3	Renal cell carcinoma, chromophobe type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8318/3	Renal cell carcinoma, sarcomatoid	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8319/3	Collecting duct carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8320/3	Granular cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8321/0	Chief cell adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8322/0	Water-clear cell adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8322/3	Water-clear cell adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8323/0	Mixed cell adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8323/3	Mixed cell adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8324/0	Lipoadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8325/0	Metanephric adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8330/0	Follicular adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8330/1	Atypical follicular adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8330/3	Follicular adenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8331/3	Follicular adenocarcinoma, well differentiated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8332/3	Follicular adenocarcinoma, trabecular	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8333/0	Microfollicular adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8333/3	Fetal adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8334/0	Macrofollicular adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8335/3	Follicular carcinoma, minimally invasive	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8336/0	Hyalinizing trabecular adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8337/3	Insular carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8340/3	Papillary carcinoma, follicular variant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8341/3	Papillary microcarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8342/3	Papillary carcinoma, oxyphilic cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8343/3	Papillary carcinoma, encapsulated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8344/3	Papillary carcinoma, columnar cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8345/3	Medullary carcinoma with amyloid stroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8346/3	Mixed medullary-follicular carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8347/3	Mixed medullary-papillary carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8350/3	Nonencapsulated sclerosing carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8360/1	Multiple endocrine adenomas	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8361/0	Juxtaglomerular tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8370/0	Adrenal cortical adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8370/3	Adrenal cortical carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8371/0	Adrenal cortical adenoma, compact cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8372/0	Adrenal cortical adenoma, pigmented	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8373/0	Adrenal cortical adenoma, clear cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8374/0	Adrenal cortical adenoma, glomerulosa cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8375/0	Adrenal cortical adenoma, mixed cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8380/0	Endometrioid adenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8380/1	Endometrioid adenoma, borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8380/3	Endometrioid adenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8381/0	Endometrioid adenofibroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8381/1	Endometrioid adenofibroma, borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8381/3	Endometrioid adenofibroma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8382/3	Endometrioid adenocarcinoma, secretory variant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8383/3	Endometrioid adenocarcinoma, ciliated cell variant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8384/3	Adenocarcinoma, endocervical type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8390/0	Skin appendage adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8390/3	Skin appendage carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8391/0	Follicular fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8392/0	Syringofibroadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8400/0	Sweat gland adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8400/1	Sweat gland tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8400/3	Sweat gland adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8401/0	Apocrine adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8401/3	Apocrine adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8402/0	Nodular hidradenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8402/3	Nodular hidradenoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8403/0	Eccrine spiradenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8403/3	Malignant eccrine spiradenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8404/0	Hidrocystoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8405/0	Papillary hidradenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8406/0	Papillary syringadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8407/0	Syringoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8407/3	Sclerosing sweat duct carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8408/0	Eccrine papillary adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8408/1	Aggressive digital papillary adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8408/3	Eccrine papillary adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8409/0	Eccrine poroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8409/3	Eccrine poroma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8410/0	Sebaceous adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8410/3	Sebaceous adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8413/3	Eccrine adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8420/0	Ceruminous adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8420/3	Ceruminous adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8430/1	Mucoepidermoid tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8430/3	Mucoepidermoid carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8440/0	Cystadenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8440/3	Cystadenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8441/0	Serous cystadenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8441/3	Serous cystadenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8442/1	Serous cystadenoma, borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8443/0	Clear cell cystadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8444/1	Clear cell cystic tumor of borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8450/0	Papillary cystadenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8450/3	Papillary cystadenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8451/1	Papillary cystadenoma, borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8452/1	Solid pseudopapillary tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8452/3	Solid pseudopapillary carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8453/0	Intraductal papillary-mucinous adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8453/1	Intraductal papillary-mucinous tumor with moderate dysplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8453/2	Intraductal papillary-mucinous carcinoma, non-invasive	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8453/3	Intraductal papillary-mucinous carcinoma, invasive	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8454/0	Cystic tumor of atrio-ventricular node	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8460/0	Papillary serous cystadenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8460/3	Papillary serous cystadenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8461/0	Serous surface papilloma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8461/3	Serous surface papillary carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8462/1	Serous papillary cystic tumor of borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8463/1	Serous surface papillary tumor of borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8470/0	Mucinous cystadenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8470/1	Mucinous cystic tumor with moderate dysplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8470/2	Mucinous cystadenocarcinoma, non-invasive	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8470/3	Mucinous cystadenocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8471/0	Papillary mucinous cystadenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8471/3	Papillary mucinous cystadenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8472/1	Mucinous cystic tumor of borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8473/1	Papillary mucinous cystadenoma, borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8480/0	Mucinous adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8480/3	Mucinous adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8480/6	Pseudomyxoma peritonei	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8481/3	Mucin-producing adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8482/3	Mucinous adenocarcinoma, endocervical type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8490/3	Signet ring cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8490/6	Metastatic signet ring cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8500/2	Intraductal carcinoma, noninfiltrating, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8500/3	Infiltrating duct carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8501/2	Comedocarcinoma, noninfiltrating	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8501/3	Comedocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8502/3	Secretory carcinoma of breast	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8503/0	Intraductal papilloma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8503/2	Noninfiltrating intraductal papillary adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8503/3	Intraductal papillary adenocarcinoma with invasion	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8504/0	Intracystic papillary adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8504/2	Noninfiltrating intracystic carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8504/3	Intracystic carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8505/0	Intraductal papillomatosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8506/0	Adenoma of nipple	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8507/2	Intraductal micropapillary carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8508/3	Cystic hypersecretory carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8510/3	Medullary carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8512/3	Medullary carcinoma with lymphoid stroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8513/3	Atypical medullary carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8514/3	Duct carcinoma, desmoplastic type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8520/2	Lobular carcinoma in situ, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8520/3	Lobular carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8851/0	Fibrolipoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8851/3	Liposarcoma, well differentiated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8852/0	Fibromyxolipoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8852/3	Myxoid liposarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8853/3	Round cell liposarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8854/0	Pleomorphic lipoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8854/3	Pleomorphic liposarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8855/3	Mixed liposarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8856/0	Intramuscular lipoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8857/0	Spindle cell lipoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8857/3	Fibroblastic liposarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8858/3	Dedifferentiated liposarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8860/0	Angiomyolipoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8861/0	Angiolipoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8862/0	Chondroid lipoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8870/0	Myelolipoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8880/0	Hibernoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8881/0	Lipoblastomatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8890/0	Leiomyoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8890/1	Leiomyomatosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8890/3	Leiomyosarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8891/0	Epithelioid leiomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8891/3	Epithelioid leiomyosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8892/0	Cellular leiomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8893/0	Bizarre leiomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8894/0	Angiomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8894/3	Angiomyosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8895/0	Myoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8895/3	Myosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8896/3	Myxoid leiomyosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8897/1	Smooth muscle tumor of uncertain malignant potential	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8898/1	Metastasizing leiomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8900/0	Rhabdomyoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8900/3	Rhabdomyosarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8901/3	Pleomorphic rhabdomyosarcoma, adult type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8902/3	Mixed type rhabdomyosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8903/0	Fetal rhabdomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8904/0	Adult rhabdomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8905/0	Genital rhabdomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8910/3	Embryonal rhabdomyosarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8912/3	Spindle cell rhabdomyosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8920/3	Alveolar rhabdomyosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8921/3	Rhabdomyosarcoma with ganglionic differentiation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8930/0	Endometrial stromal nodule	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8930/3	Endometrial stromal sarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8931/3	Endometrial stromal sarcoma, low grade	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8932/0	Adenomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8933/3	Adenosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8934/3	Carcinofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8935/0	Stromal tumor, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8935/1	Stromal tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8935/3	Stromal sarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9300/0	Adenomatoid odontogenic tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9301/0	Calcifying odontogenic cyst	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9302/0	Odontogenic ghost cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9310/0	Ameloblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9310/3	Ameloblastoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9311/0	Odontoameloblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9312/0	Squamous odontogenic tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9320/0	Odontogenic myxoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9321/0	Central odontogenic fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9322/0	Peripheral odontogenic fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9330/0	Ameloblastic fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9330/3	Ameloblastic fibrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9340/0	Calcifying epithelial odontogenic tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9341/1	Clear cell odontogenic tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9342/3	Odontogenic carcinosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9350/1	Craniopharyngioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9351/1	Craniopharyngioma, adamantinomatous	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9352/1	Craniopharyngioma, papillary	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9360/1	Pinealoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9361/1	Pineocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9362/3	Pineoblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9363/0	Melanotic neuroectodermal tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9364/3	Peripheral neuroectodermal tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9365/3	Askin tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9370/3	Chordoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9371/3	Chondroid chordoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9372/3	Dedifferentiated chordoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9373/0	Parachordoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9380/3	Glioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9381/3	Gliomatosis cerebri	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9382/3	Mixed glioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9383/1	Subependymoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9384/1	Subependymal giant cell astrocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9390/0	Choroid plexus papilloma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9390/1	Atypical choroid plexus papilloma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9390/3	Choroid plexus carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9391/3	Ependymoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8521/3	Infiltrating ductular carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8522/2	Intraductal carcinoma and lobular carcinoma in situ	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8522/3	Infiltrating duct and lobular carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8523/3	Infiltrating duct mixed with other types of carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8524/3	Infiltrating lobular mixed with other types of carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8525/3	Polymorphous low grade adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8530/3	Inflammatory carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8540/3	Paget disease, mammary	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8541/3	Paget disease and infiltrating duct carcinoma of breast	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8542/3	Paget disease, extramammary	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8543/3	Paget disease and intraductal carcinoma of breast	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8550/0	Acinar cell adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8550/1	Acinar cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8550/3	Acinar cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8551/3	Acinar cell cystadenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8560/0	Mixed squamous cell and glandular papilloma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8560/3	Adenosquamous carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8561/0	Adenolymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8562/3	Epithelial-myoepithelial carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8570/3	Adenocarcinoma with squamous metaplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8571/3	Adenocarcinoma with cartilaginous and osseous metaplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8572/3	Adenocarcinoma with spindle cell metaplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8573/3	Adenocarcinoma with apocrine metaplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8574/3	Adenocarcinoma with neuroendocrine differentiation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8575/3	Metaplastic carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8576/3	Hepatoid adenocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8580/0	Thymoma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8580/1	Thymoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8580/3	Thymoma, malignant, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8581/1	Thymoma, type A, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8581/3	Thymoma, type A, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8582/1	Thymoma, type AB, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8582/3	Thymoma, type AB, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8583/1	Thymoma, type B1, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8583/3	Thymoma, type B1, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8584/1	Thymoma, type B2, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8584/3	Thymoma, type B2, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8585/1	Thymoma, type B3, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8585/3	Thymoma, type B3, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8586/3	Thymic carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8587/0	Ectopic hamartomatous thymoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8588/3	Spindle epithelial tumor with thymus-like element	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8589/3	Carcinoma showing thymus-like element	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8590/1	Sex cord-gonadal stromal tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8591/1	Sex cord-gonadal stromal tumor, incompletely differentiated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8592/1	Sex cord-gonadal stromal tumor, mixed forms	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8593/1	Stromal tumor with minor sex cord elements	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8600/0	Thecoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8600/3	Thecoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8601/0	Thecoma, luteinized	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8602/0	Sclerosing stromal tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8610/0	Luteoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8620/1	Granulosa cell tumor, adult type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8620/3	Granulosa cell tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8621/1	Granulosa cell-theca cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8622/1	Granulosa cell tumor, juvenile	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8623/1	Sex cord tumor with annular tubules	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8630/0	Androblastoma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8630/1	Androblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8630/3	Androblastoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8631/0	Sertoli-Leydig cell tumor, well differentiated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8631/1	Sertoli-Leydig cell tumor of intermediate differentiation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8631/3	Sertoli-Leydig cell tumor, poorly differentiated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8632/1	Gynandroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8633/1	Sertoli-Leydig cell tumor, retiform	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8634/1	Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8634/3 8634/3	Sertoli-Leydig cell tumor, poorly differentiated, with heterologous elements	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8640/1	Sertoli cell tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8640/3	Sertoli cell carcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8641/0	Sertoli cell tumor with lipid storage	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8642/1	Large cell calcifying Sertoli cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8650/0	Leydig cell tumor, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8650/1	Leydig cell tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8650/3	Leydig cell tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8660/0	Hilus cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8670/0	Lipid cell tumor of ovary	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8670/3	Steroid cell tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8671/0	Adrenal rest tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8680/0	Paraganglioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8680/1	Paraganglioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8680/3	Paraganglioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8681/1	Sympathetic paraganglioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8682/1	Parasympathetic paraganglioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8683/0	Gangliocytic paraganglioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8690/1	Glomus jugulare tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8691/1	Aortic body tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8692/1	Carotid body tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8693/1	Extra-adrenal paraganglioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8693/3	Extra-adrenal paraganglioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8700/0	Pheochromocytoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8700/3	Pheochromocytoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8710/3	Glomangiosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8711/0	Glomus tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8711/3	Glomus tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8712/0	Glomangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8713/0	Glomangiomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8720/0	Pigmented nevus, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8720/2	Melanoma in situ	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8720/3	Malignant melanoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8721/3	Nodular melanoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8722/0	Balloon cell nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8722/3	Balloon cell melanoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8723/0	Halo nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8723/3	Malignant melanoma, regressing	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8725/0	Neuronevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8726/0	Magnocellular nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8727/0	Dysplastic nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8728/0	Diffuse melanocytosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8728/1	Meningeal melanocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8728/3	Meningeal melanomatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8730/0	Nonpigmented nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8730/3	Amelanotic melanoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8740/0	Junctional nevus, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8740/3	Malignant melanoma in junctional nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8741/2	Precancerous melanosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8741/3	Malignant melanoma in precancerous melanosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8742/2	Lentigo maligna	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8742/3	Lentigo maligna melanoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8743/3	Superficial spreading melanoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8744/3	Acral lentiginous melanoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8745/3	Desmoplastic melanoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8746/3	Mucosal lentiginous melanoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8750/0	Intradermal nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8760/0	Compound nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8761/0	Small congenital nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8761/1	Giant pigmented nevus, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8761/3	Malignant melanoma in giant pigmented nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8762/1	Proliferative dermal lesion in congenital nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8770/0	Epithelioid and spindle cell nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8770/3	Mixed epithelioid and spindle cell melanoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8771/0	Epithelioid cell nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8771/3	Epithelioid cell melanoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8772/0	Spindle cell nevus, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8772/3	Spindle cell melanoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8773/3	Spindle cell melanoma, type A	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8774/3	Spindle cell melanoma, type B	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8780/0	Blue nevus, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8780/3	Blue nevus, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8790/0	Cellular blue nevus	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8800/0	Soft tissue tumor, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8800/3	Sarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8800/9	Sarcomatosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8801/3	Spindle cell sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8802/3	Giant cell sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8803/3	Small cell sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8804/3	Epithelioid sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8805/3	Undifferentiated sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8806/3	Desmoplastic small round cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8810/0	Fibroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8810/1	Cellular fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8810/3	Fibrosarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8811/0	Fibromyxoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8811/3	Fibromyxosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8812/0	Periosteal fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8812/3	Periosteal fibrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8813/0	Fascial fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8813/3	Fascial fibrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8814/3	Infantile fibrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8815/0	Solitary fibrous tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8815/3	Solitary fibrous tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8820/0	Elastofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8821/1	Aggressive fibromatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8822/1	Abdominal fibromatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8823/0	Desmoplastic fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8824/0	Myofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8824/1	Myofibromatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8825/0	Myofibroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8825/1	Myofibroblastic tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8826/0	Angiomyofibroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8827/1	Myofibroblastic tumor, peribronchial	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8830/0	Benign fibrous histiocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8830/1	Atypical fibrous histiocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8830/3	Malignant fibrous histiocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8831/0	Histiocytoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8832/0	Dermatofibroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8832/3	Dermatofibrosarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8833/3	Pigmented dermatofibrosarcoma protuberans	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8834/1	Giant cell fibroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8835/1	Plexiform fibrohistiocytic tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8836/1	Angiomatoid fibrous histiocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8840/0	Myxoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8840/3	Myxosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8841/1	Angiomyxoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8842/0	Ossifying fibromyxoid tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8850/0	Lipoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8850/1	Atypical lipoma/j	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8850/3	Liposarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8936/0	Gastrointestinal stromal tumor, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8936/1	Gastrointestinal stromal tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8936/3	Gastrointestinal stromal sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8940/0	Pleomorphic adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8940/3	Mixed tumor, malignant, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8941/3	Carcinoma in pleomorphic adenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8950/3	Mullerian mixed tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8951/3	Mesodermal mixed tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8959/0	Benign cystic nephroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8959/1	Cystic partially differentiated nephroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8959/3	Malignant cystic nephroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8960/1	Mesoblastic nephroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8960/3	Nephroblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8963/3	Malignant rhabdoid tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8964/3	Clear cell sarcoma of kidney	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8965/0	Nephrogenic adenofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8966/0	Renomedullary interstitial cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8967/0	Ossifying renal tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8970/3	Hepatoblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8971/3	Pancreatoblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8972/3	Pulmonary blastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8973/3	Pleuropulmonary blastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8974/1	Sialoblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8980/3	Carcinosarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8981/3	Carcinosarcoma, embryonal	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8982/0	Myoepithelioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8982/3	Malignant myoepithelioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8983/0	Adenomyoepithelioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8990/0	Mesenchymoma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8990/1	Mesenchymoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8990/3	Mesenchymoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:8991/3	Embryonal sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9000/0	Brenner tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9000/1	Brenner tumor, borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9000/3	Brenner tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9010/0	Fibroadenoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9011/0	Intracanalicular fibroadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9012/0	Pericanalicular fibroadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9013/0	Adenofibroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9014/0	Serous adenofibroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9014/1	Serous adenofibroma of borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9014/3	Serous adenocarcinofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9015/0	Mucinous adenofibroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9015/1	Mucinous adenofibroma of borderline malignancy	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9015/3	Mucinous adenocarcinofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9016/0	Giant fibroadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9020/0	Phyllodes tumor, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9020/1	Phyllodes tumor, borderline	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9020/3	Phyllodes tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9030/0	Juvenile fibroadenoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9040/0	Synovioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9040/3	Synovial sarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9041/3	Synovial sarcoma, spindle cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9042/3	Synovial sarcoma, epithelioid cell	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9043/3	Synovial sarcoma, biphasic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9044/3	Clear cell sarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9050/0	Mesothelioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9050/3	Mesothelioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9051/0	Fibrous mesothelioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9051/3	Fibrous mesothelioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9052/0	Epithelioid mesothelioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9052/3	Epithelioid mesothelioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9053/3	Mesothelioma, biphasic, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9054/0	Adenomatoid tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9055/0	Multicystic mesothelioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9055/1	Cystic mesothelioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9060/3	Dysgerminoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9061/3	Seminoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9062/3	Seminoma, anaplastic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9063/3	Spermatocytic seminoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9064/2	Intratubular malignant germ cells	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9064/3	Germinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9065/3	Germ cell tumor, nonseminomatous	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9070/3	Embryonal carcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9071/3	Yolk sac tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9072/3	Polyembryoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9073/1	Gonadoblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9080/0	Teratoma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9080/1	Teratoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9080/3	Teratoma, malignant, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9081/3	Teratocarcinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9082/3	Malignant teratoma, undifferentiated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9083/3	Malignant teratoma, intermediate	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9084/0	Dermoid cyst, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9084/3	Teratoma with malignant transformation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9085/3	Mixed germ cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9090/0	Struma ovarii, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9090/3	Struma ovarii, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9091/1	Strumal carcinoid	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9100/0	Hydatidiform mole, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9100/1	Invasive hydatidiform mole	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9100/3	Choriocarcinoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9101/3	Choriocarcinoma combined with other germ cell elements	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9102/3	Malignant teratoma, trophoblastic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9103/0	Partial hydatidiform mole	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9104/1	Placental site trophoblastic tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9105/3	Trophoblastic tumor, epithelioid	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9110/0	Mesonephroma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9110/1	Mesonephric tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9110/3	Mesonephroma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9120/0	Hemangioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9120/3	Hemangiosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9121/0	Cavernous hemangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9122/0	Venous hemangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9123/0	Racemose hemangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9124/3	Kupffer cell sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9125/0	Epithelioid hemangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9130/0	Hemangioendothelioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9130/1	Hemangioendothelioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9130/3	Hemangioendothelioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9131/0	Capillary hemangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9132/0	Intramuscular hemangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9133/1	Epithelioid hemangioendothelioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9133/3	Epithelioid hemangioendothelioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9135/1	Endovascular papillary angioendothelioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9136/1	Spindle cell hemangioendothelioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9140/3	Kaposi sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9141/0	Angiokeratoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9142/0	Verrucous keratotic hemangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9150/0	Hemangiopericytoma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9150/1	Hemangiopericytoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9150/3	Hemangiopericytoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9160/0	Angiofibroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9161/0	Acquired tufted hemangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9161/1	Hemangioblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9170/0	Lymphangioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9170/3	Lymphangiosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9171/0	Capillary lymphangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9172/0	Cavernous lymphangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9173/0	Cystic lymphangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9174/0	Lymphangiomyoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9174/1	Lymphangiomyomatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9175/0	Hemolymphangioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9180/0	Osteoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9180/3	Osteosarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9181/3	Chondroblastic osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9182/3	Fibroblastic osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9183/3	Telangiectatic osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9184/3	Osteosarcoma in Paget disease of bone	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9185/3	Small cell osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9186/3	Central osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9187/3	Intraosseous well differentiated osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9191/0	Osteoid osteoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9192/3	Parosteal osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9193/3	Periosteal osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9194/3	High grade surface osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9195/3	Intracortical osteosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9200/0	Osteoblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9200/1	Aggressive osteoblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9210/0	Osteochondroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9210/1	Osteochondromatosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9220/0	Chondroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9220/1	Chondromatosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9220/3	Chondrosarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9221/0	Juxtacortical chondroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9221/3	Juxtacortical chondrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9230/0	Chondroblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9230/3	Chondroblastoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9231/3	Myxoid chondrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9240/3	Mesenchymal chondrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9241/0	Chondromyxoid fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9242/3	Clear cell chondrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9243/3	Dedifferentiated chondrosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9250/1	Giant cell tumor of bone, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9250/3	Giant cell tumor of bone, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9251/1	Giant cell tumor of soft parts, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9251/3	Malignant giant cell tumor of soft parts	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9252/0	Tenosynovial giant cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9252/3	Malignant tenosynovial giant cell tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9260/3	Ewing sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9261/3	Adamantinoma of long bones	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9262/0	Ossifying fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9270/0	Odontogenic tumor, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9270/1	Odontogenic tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9270/3	Odontogenic tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9271/0	Ameloblastic fibrodentinoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9272/0	Cementoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9273/0	Cementoblastoma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9274/0	Cementifying fibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9275/0	Gigantiform cementoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9280/0	Odontoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9281/0	Compound odontoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9282/0	Complex odontoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9290/0	Ameloblastic fibro-odontoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9290/3	Ameloblastic odontosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9392/3	Ependymoma, anaplastic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9393/3	Papillary ependymoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9394/1	Myxopapillary ependymoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9400/3	Astrocytoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9401/3	Astrocytoma, anaplastic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9410/3	Protoplasmic astrocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9411/3	Gemistocytic astrocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9412/1	Desmoplastic infantile astrocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9413/0	Dysembryoplastic neuroepithelial tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9420/3	Fibrillary astrocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9421/1	Pilocytic astrocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9423/3	Polar spongioblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9424/3	Pleomorphic xanthoastrocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9430/3	Astroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9440/3	Glioblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9441/3	Giant cell glioblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9442/1	Gliofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9442/3	Gliosarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9444/1	Chordoid glioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9450/3	Oligodendroglioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9451/3	Oligodendroglioma, anaplastic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9460/3	Oligodendroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9470/3	Medulloblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9471/3	Desmoplastic nodular medulloblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9472/3	Medullomyoblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9473/3	Primitive neuroectodermal tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9474/3	Large cell medulloblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9480/3	Cerebellar sarcoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9490/0	Ganglioneuroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9490/3	Ganglioneuroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9491/0	Ganglioneuromatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9492/0	Gangliocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9493/0	Dysplastic gangliocytoma of cerebellum (Lhermitte-Duclos)	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9500/3	Neuroblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9501/0	Medulloepithelioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9501/3	Medulloepithelioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9502/0	Teratoid medulloepithelioma, benign	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9502/3	Teratoid medulloepithelioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9503/3	Neuroepithelioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9504/3	Spongioneuroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9505/1	Ganglioglioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9505/3	Ganglioglioma, anaplastic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9506/1	Central neurocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9507/0	Pacinian tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9508/3	Atypical teratoid/rhabdoid tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9510/0	Retinocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9510/3	Retinoblastoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9511/3	Retinoblastoma, differentiated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9512/3	Retinoblastoma, undifferentiated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9513/3	Retinoblastoma, diffuse	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9514/1	Retinoblastoma, spontaneously regressed	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9520/3	Olfactory neurogenic tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9521/3	Olfactory neurocytoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9522/3	Olfactory neuroblastoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9523/3	Olfactory neuroepithelioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9530/0	Meningioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9530/1	Meningiomatosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9530/3	Meningioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9531/0	Meningothelial meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9532/0	Fibrous meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9533/0	Psammomatous meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9534/0	Angiomatous meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9535/0	Hemangioblastic meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9537/0	Transitional meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9538/1	Clear cell meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9538/3	Papillary meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9539/1	Atypical meningioma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9539/3	Meningeal sarcomatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9540/0	Neurofibroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9540/1	Neurofibromatosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9540/3	Malignant peripheral nerve sheath tumor	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9541/0	Melanotic neurofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9550/0	Plexiform neurofibroma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9560/0	Neurilemoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9560/1	Neurinomatosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9560/3	Neurilemoma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9561/3	Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9562/0	Neurothekeoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9570/0	Neuroma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9571/0	Perineurioma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9571/3	Perineurioma, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9580/0	Granular cell tumor, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9580/3	Granular cell tumor, malignant	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9581/3	Alveolar soft part sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9582/0	Granular cell tumor of the sellar region	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9590/3	Malignant lymphoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9591/3	Malignant lymphoma, non-Hodgkin, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9596/3	Composite Hodgkin and non-Hodgkin lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9650/3	Hodgkin lymphoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9651/3	Hodgkin lymphoma, lymphocyte-rich	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9652/3	Hodgkin lymphoma, mixed cellularity, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9653/3	Hodgkin lymphoma, lymphocyte depletion, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9654/3	Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9655/3	Hodgkin lymphoma, lymphocyte depletion, reticular	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9659/3	Hodgkin lymphoma, nodular lymphocyte predominance	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9661/3	Hodgkin granuloma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9662/3	Hodgkin sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9663/3	Hodgkin lymphoma, nodular sclerosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9664/3	Hodgkin lymphoma, nodular sclerosis, cellular phase	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9665/3	Hodgkin lymphoma, nodular sclerosis,  grade 1	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9667/3	Hodgkin lymphoma, nodular sclerosis,  grade 2	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9670/3	Malignant lymphoma, small B lymphocytic, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9671/3	Malignant lymphoma, lymphoplasmacytic	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9673/3	Mantle cell lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9675/3	Malignant lymphoma, mixed small and large cell, diffuse	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9678/3	Primary effusion lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9679/3	Mediastinal large B-cell lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9684/3	Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9687/3	Burkitt lymphoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9689/3	Splenic marginal zone B-cell lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9690/3	Follicular lymphoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9691/3	Follicular lymphoma, grade 2	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9695/3	Follicular lymphoma, grade 1	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9698/3	Follicular lymphoma, grade 3	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9699/3	Marginal zone B-cell lymphoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9700/3	Mycosis fungoides	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9701/3	Sezary syndrome	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9702/3	Mature T-cell lymphoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9705/3	Angioimmunoblastic T-cell lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9708/3	Subcutaneous panniculitis-like T-cell lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9709/3	Cutaneous T-cell lymphoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9714/3	Anaplastic large cell lymphoma, T cell and Null cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9716/3	Hepatosplenic  (gamma-delta) cell lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9717/3	Intestinal T-cell lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9718/3	Primary cutaneous CD30+ T-cell lymphoproliferative disorder	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9719/3	NK/T-cell lymphoma, nasal and nasal-type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9727/3	Precursor cell lymphoblastic lymphoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9728/3	Precursor B-cell lymphoblastic lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9729/3	Precursor T-cell lymphoblastic lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9731/3	Plasmacytoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9732/3	Multiple myeloma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9733/3	Plasma cell leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9734/3	Plasmacytoma, extramedullary (not occurring in bone)	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9740/1	Mastocytoma, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9740/3	Mast cell sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9741/3	Malignant mastocytosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9742/3	Mast cell leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9750/3	Malignant histiocytosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9751/1	Langerhans cell histiocytosis, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9752/1	Langerhans cell histiocytosis, unifocal	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9753/1	Langerhans cell histiocytosis, multifocal	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9754/3	Langerhans cell histiocytosis, disseminated	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9755/3	Histiocytic sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9756/3	Langerhans cell sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9757/3	Interdigitating dendritic cell sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9758/3	Follicular dendritic cell sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9760/3	Immunoproliferative disease, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9761/3	Waldenstrom macroglobulinemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9762/3	Heavy chain disease, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9764/3	Immunoproliferative small intestinal  disease	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9765/1	Monoclonal gammopathy of undetermined significance	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9766/1	Angiocentric immunoproliferative lesion	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9767/1	Angioimmunoblastic lymphadenopathy (AIC)	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9768/1	T-gamma lymphoproliferative disease	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9769/1	Immunoglobulin deposition disease	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9800/3	Leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9801/3	Acute leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9805/3	Acute biphenotypic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9820/3	Lymphoid leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9823/3	B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9826/3	Burkitt cell leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9827/3	Adult T-cell leukemia/lymphoma (HTLV-1 positive)	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9831/1	T-cell large granular lymphocytic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9832/3	Prolymphocytic leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9833/3	Prolymphocytic leukemia, B-cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9834/3	Prolymphocytic leukemia, T-cell type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9835/3	Precursor cell lymphoblastic leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9836/3	Precursor B-cell lymphoblastic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9837/3	Precursor T-cell lymphoblastic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9840/3	Acute myeloid leukemia, M6 type	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9860/3	Myeloid leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9861/3	Acute myeloid leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9863/3	Chronic myeloid leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9866/3	Acute promyelocytic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9867/3	Acute myelomonocytic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9870/3	Acute basophilic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9871/3	Acute myeloid leukemia with abnormal marrow eosinophils	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9872/3	Acute myeloid leukemia, minimal differentiation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9873/3	Acute myeloid leukemia without maturation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9874/3	Acute myeloid leukemia with maturation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9875/3	Chronic myelogenous leukemia, BCR/ABL  positive	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9876/3	Atypical chronic myeloid leukemia, BCR/ABL negative	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9891/3	Acute monocytic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9895/3	Acute myeloid leukemia with multilineage dysplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9896/3	Acute myeloid leukemia, t(8	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9897/3	Acute myeloid leukemia, 11q23 abnormalities	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9910/3	Acute megakaryoblastic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9920/3	Therapy-related acute myeloid leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9930/3	Myeloid sarcoma	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9931/3	Acute panmyelosis with myelofibrosis	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9940/3	Hairy cell leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9945/3	Chronic myelomonocytic leukemia, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9946/3	Juvenile myelomonocytic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9948/3	Aggressive NK-cell leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9950/3	Polycythemia vera	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9960/3	Chronic myeloproliferative disease, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9961/3	Myelosclerosis with myeloid metaplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9962/3	Essential thrombocythemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9963/3	Chronic neutrophilic leukemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9964/3	Hypereosinophilic syndrome	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9970/1	Lymphoproliferative disorder, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9975/1	Myeloproliferative disease, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9980/3	Refractory anemia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9982/3	Refractory anemia with sideroblasts	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9983/3	Refractory anemia with excess blasts	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9984/3	Refractory anemia with excess blasts in transformation	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9985/3	Refractory cytopenia with multilineage dysplasia	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9986/3	Myelodysplastic syndrome with 5q deletion (5q-) syndrome	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9987/3	Therapy-related myelodysplastic syndrome, NOS	ICD3		Enumerated	String		ICD3:morphology			
+ICD3:9989/3	Myelodysplastic syndrome, NOS	ICD3		Enumerated	String		ICD3:morphology			
